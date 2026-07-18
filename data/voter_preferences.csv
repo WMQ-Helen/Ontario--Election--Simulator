@@ -1,0 +1,2501 @@
+riding,voter_id,preference_ranking
+Toronto,1,Green;PC;Liberal;NDP
+Toronto,2,Liberal;NDP;Green;PC
+Toronto,3,Liberal;Green;NDP;PC
+Toronto,4,Liberal;NDP;PC;Green
+Toronto,5,NDP;Liberal;PC;Green
+Toronto,6,NDP;Liberal;PC;Green
+Toronto,7,NDP;Liberal;Green;PC
+Toronto,8,NDP;PC;Green;Liberal
+Toronto,9,Liberal;PC;NDP;Green
+Toronto,10,Liberal;PC;NDP;Green
+Toronto,11,NDP;Liberal;Green;PC
+Toronto,12,NDP;Green;Liberal;PC
+Toronto,13,Liberal;Green;NDP;PC
+Toronto,14,NDP;Green;PC;Liberal
+Toronto,15,PC;NDP;Green;Liberal
+Toronto,16,PC;Liberal;Green;NDP
+Toronto,17,Green;PC;Liberal;NDP
+Toronto,18,Liberal;Green;NDP;PC
+Toronto,19,Liberal;NDP;PC;Green
+Toronto,20,NDP;Green;PC;Liberal
+Toronto,21,Liberal;NDP;PC;Green
+Toronto,22,Green;Liberal;PC;NDP
+Toronto,23,Liberal;Green;NDP;PC
+Toronto,24,PC;Liberal;Green;NDP
+Toronto,25,Liberal;PC;NDP;Green
+Toronto,26,Liberal;Green;PC;NDP
+Toronto,27,NDP;PC;Green;Liberal
+Toronto,28,Liberal;NDP;PC;Green
+Toronto,29,Liberal;Green;NDP;PC
+Toronto,30,NDP;Green;PC;Liberal
+Toronto,31,NDP;Liberal;PC;Green
+Toronto,32,Liberal;NDP;PC;Green
+Toronto,33,NDP;PC;Liberal;Green
+Toronto,34,Liberal;PC;NDP;Green
+Toronto,35,Green;NDP;PC;Liberal
+Toronto,36,Liberal;Green;NDP;PC
+Toronto,37,NDP;PC;Liberal;Green
+Toronto,38,PC;NDP;Green;Liberal
+Toronto,39,NDP;PC;Liberal;Green
+Toronto,40,NDP;Liberal;Green;PC
+Toronto,41,Green;PC;Liberal;NDP
+Toronto,42,NDP;Green;Liberal;PC
+Toronto,43,NDP;Green;Liberal;PC
+Toronto,44,NDP;Green;PC;Liberal
+Toronto,45,Liberal;PC;Green;NDP
+Toronto,46,Liberal;NDP;PC;Green
+Toronto,47,NDP;Green;PC;Liberal
+Toronto,48,PC;NDP;Liberal;Green
+Toronto,49,Liberal;Green;PC;NDP
+Toronto,50,Green;NDP;Liberal;PC
+Toronto,51,NDP;Green;Liberal;PC
+Toronto,52,NDP;Liberal;PC;Green
+Toronto,53,NDP;PC;Liberal;Green
+Toronto,54,NDP;Green;PC;Liberal
+Toronto,55,NDP;PC;Green;Liberal
+Toronto,56,Green;NDP;Liberal;PC
+Toronto,57,NDP;Green;PC;Liberal
+Toronto,58,NDP;Green;PC;Liberal
+Toronto,59,Liberal;PC;Green;NDP
+Toronto,60,NDP;Green;PC;Liberal
+Toronto,61,NDP;PC;Liberal;Green
+Toronto,62,Liberal;NDP;PC;Green
+Toronto,63,PC;Green;NDP;Liberal
+Toronto,64,Liberal;NDP;Green;PC
+Toronto,65,NDP;PC;Liberal;Green
+Toronto,66,PC;Green;NDP;Liberal
+Toronto,67,Green;NDP;PC;Liberal
+Toronto,68,Liberal;NDP;Green;PC
+Toronto,69,Liberal;NDP;PC;Green
+Toronto,70,NDP;Liberal;Green;PC
+Toronto,71,NDP;Liberal;PC;Green
+Toronto,72,NDP;Green;Liberal;PC
+Toronto,73,Liberal;Green;NDP;PC
+Toronto,74,NDP;PC;Green;Liberal
+Toronto,75,NDP;Green;PC;Liberal
+Toronto,76,NDP;Green;PC;Liberal
+Toronto,77,PC;Green;Liberal;NDP
+Toronto,78,Liberal;PC;Green;NDP
+Toronto,79,NDP;PC;Liberal;Green
+Toronto,80,NDP;PC;Liberal;Green
+Toronto,81,PC;NDP;Green;Liberal
+Toronto,82,NDP;Liberal;PC;Green
+Toronto,83,NDP;Green;Liberal;PC
+Toronto,84,Liberal;Green;PC;NDP
+Toronto,85,PC;NDP;Liberal;Green
+Toronto,86,Liberal;PC;NDP;Green
+Toronto,87,Liberal;Green;PC;NDP
+Toronto,88,Liberal;Green;PC;NDP
+Toronto,89,NDP;Liberal;PC;Green
+Toronto,90,NDP;PC;Green;Liberal
+Toronto,91,NDP;PC;Liberal;Green
+Toronto,92,Liberal;NDP;PC;Green
+Toronto,93,NDP;Green;Liberal;PC
+Toronto,94,Liberal;Green;PC;NDP
+Toronto,95,Liberal;Green;PC;NDP
+Toronto,96,NDP;Liberal;PC;Green
+Toronto,97,NDP;PC;Liberal;Green
+Toronto,98,NDP;Green;PC;Liberal
+Toronto,99,PC;Green;NDP;Liberal
+Toronto,100,NDP;Liberal;Green;PC
+Toronto,101,NDP;PC;Green;Liberal
+Toronto,102,NDP;PC;Green;Liberal
+Toronto,103,PC;Liberal;NDP;Green
+Toronto,104,Green;PC;NDP;Liberal
+Toronto,105,Liberal;PC;Green;NDP
+Toronto,106,Liberal;Green;NDP;PC
+Toronto,107,Liberal;PC;NDP;Green
+Toronto,108,Liberal;PC;Green;NDP
+Toronto,109,Liberal;Green;NDP;PC
+Toronto,110,NDP;Liberal;PC;Green
+Toronto,111,PC;Liberal;NDP;Green
+Toronto,112,Liberal;Green;PC;NDP
+Toronto,113,Green;PC;NDP;Liberal
+Toronto,114,Liberal;NDP;Green;PC
+Toronto,115,Green;NDP;Liberal;PC
+Toronto,116,NDP;PC;Liberal;Green
+Toronto,117,NDP;PC;Liberal;Green
+Toronto,118,NDP;Green;Liberal;PC
+Toronto,119,Liberal;NDP;Green;PC
+Toronto,120,NDP;Green;Liberal;PC
+Toronto,121,Green;PC;Liberal;NDP
+Toronto,122,NDP;Green;Liberal;PC
+Toronto,123,Liberal;Green;NDP;PC
+Toronto,124,NDP;PC;Green;Liberal
+Toronto,125,NDP;Liberal;PC;Green
+Toronto,126,PC;Green;Liberal;NDP
+Toronto,127,NDP;PC;Green;Liberal
+Toronto,128,NDP;Liberal;Green;PC
+Toronto,129,NDP;Liberal;Green;PC
+Toronto,130,NDP;PC;Green;Liberal
+Toronto,131,NDP;Liberal;PC;Green
+Toronto,132,NDP;Liberal;PC;Green
+Toronto,133,Green;NDP;PC;Liberal
+Toronto,134,Liberal;PC;NDP;Green
+Toronto,135,NDP;PC;Liberal;Green
+Toronto,136,Liberal;Green;PC;NDP
+Toronto,137,Liberal;NDP;Green;PC
+Toronto,138,NDP;PC;Green;Liberal
+Toronto,139,PC;Green;NDP;Liberal
+Toronto,140,Liberal;Green;NDP;PC
+Toronto,141,NDP;Liberal;Green;PC
+Toronto,142,NDP;Liberal;Green;PC
+Toronto,143,Green;Liberal;PC;NDP
+Toronto,144,PC;Green;NDP;Liberal
+Toronto,145,NDP;Liberal;PC;Green
+Toronto,146,Green;PC;Liberal;NDP
+Toronto,147,NDP;Green;PC;Liberal
+Toronto,148,Liberal;Green;PC;NDP
+Toronto,149,NDP;Green;PC;Liberal
+Toronto,150,NDP;Green;PC;Liberal
+Toronto,151,NDP;Green;PC;Liberal
+Toronto,152,Liberal;Green;PC;NDP
+Toronto,153,Liberal;NDP;Green;PC
+Toronto,154,Green;Liberal;PC;NDP
+Toronto,155,NDP;Liberal;Green;PC
+Toronto,156,Liberal;NDP;PC;Green
+Toronto,157,Green;Liberal;PC;NDP
+Toronto,158,NDP;PC;Liberal;Green
+Toronto,159,PC;NDP;Green;Liberal
+Toronto,160,Liberal;NDP;PC;Green
+Toronto,161,NDP;Green;Liberal;PC
+Toronto,162,Liberal;PC;Green;NDP
+Toronto,163,NDP;Green;PC;Liberal
+Toronto,164,Liberal;PC;NDP;Green
+Toronto,165,PC;NDP;Liberal;Green
+Toronto,166,NDP;Green;PC;Liberal
+Toronto,167,Liberal;Green;PC;NDP
+Toronto,168,Liberal;PC;Green;NDP
+Toronto,169,Liberal;PC;NDP;Green
+Toronto,170,PC;Liberal;Green;NDP
+Toronto,171,NDP;Green;Liberal;PC
+Toronto,172,PC;NDP;Green;Liberal
+Toronto,173,Liberal;Green;NDP;PC
+Toronto,174,NDP;Green;PC;Liberal
+Toronto,175,Green;Liberal;NDP;PC
+Toronto,176,NDP;Green;Liberal;PC
+Toronto,177,NDP;Green;Liberal;PC
+Toronto,178,Liberal;NDP;PC;Green
+Toronto,179,PC;Liberal;Green;NDP
+Toronto,180,NDP;PC;Green;Liberal
+Toronto,181,Liberal;PC;Green;NDP
+Toronto,182,PC;Green;Liberal;NDP
+Toronto,183,Liberal;NDP;Green;PC
+Toronto,184,Liberal;Green;PC;NDP
+Toronto,185,NDP;Liberal;Green;PC
+Toronto,186,NDP;Green;PC;Liberal
+Toronto,187,NDP;PC;Green;Liberal
+Toronto,188,PC;Green;Liberal;NDP
+Toronto,189,PC;NDP;Liberal;Green
+Toronto,190,NDP;Liberal;PC;Green
+Toronto,191,NDP;Liberal;Green;PC
+Toronto,192,Green;NDP;PC;Liberal
+Toronto,193,Liberal;PC;NDP;Green
+Toronto,194,NDP;PC;Green;Liberal
+Toronto,195,NDP;Liberal;Green;PC
+Toronto,196,NDP;Green;PC;Liberal
+Toronto,197,NDP;Liberal;Green;PC
+Toronto,198,Green;NDP;Liberal;PC
+Toronto,199,PC;NDP;Liberal;Green
+Toronto,200,Liberal;NDP;Green;PC
+Toronto,201,PC;NDP;Liberal;Green
+Toronto,202,NDP;Green;Liberal;PC
+Toronto,203,Liberal;Green;NDP;PC
+Toronto,204,NDP;Green;PC;Liberal
+Toronto,205,NDP;Green;PC;Liberal
+Toronto,206,PC;NDP;Green;Liberal
+Toronto,207,NDP;PC;Liberal;Green
+Toronto,208,NDP;Green;Liberal;PC
+Toronto,209,Liberal;NDP;PC;Green
+Toronto,210,NDP;Green;PC;Liberal
+Toronto,211,Liberal;PC;NDP;Green
+Toronto,212,Green;PC;NDP;Liberal
+Toronto,213,PC;NDP;Liberal;Green
+Toronto,214,NDP;PC;Liberal;Green
+Toronto,215,PC;Green;Liberal;NDP
+Toronto,216,NDP;PC;Green;Liberal
+Toronto,217,Green;PC;Liberal;NDP
+Toronto,218,PC;Green;NDP;Liberal
+Toronto,219,NDP;Liberal;PC;Green
+Toronto,220,PC;Green;NDP;Liberal
+Toronto,221,Green;NDP;Liberal;PC
+Toronto,222,Liberal;PC;Green;NDP
+Toronto,223,PC;NDP;Liberal;Green
+Toronto,224,NDP;Liberal;Green;PC
+Toronto,225,Liberal;Green;PC;NDP
+Toronto,226,PC;Liberal;NDP;Green
+Toronto,227,Green;PC;NDP;Liberal
+Toronto,228,Liberal;Green;NDP;PC
+Toronto,229,Liberal;NDP;Green;PC
+Toronto,230,Liberal;PC;NDP;Green
+Toronto,231,NDP;Liberal;Green;PC
+Toronto,232,Liberal;PC;NDP;Green
+Toronto,233,NDP;Green;Liberal;PC
+Toronto,234,NDP;Liberal;Green;PC
+Toronto,235,NDP;Green;PC;Liberal
+Toronto,236,Liberal;PC;NDP;Green
+Toronto,237,Liberal;PC;Green;NDP
+Toronto,238,Liberal;Green;NDP;PC
+Toronto,239,NDP;Green;PC;Liberal
+Toronto,240,NDP;PC;Liberal;Green
+Toronto,241,PC;Liberal;Green;NDP
+Toronto,242,PC;Liberal;Green;NDP
+Toronto,243,NDP;Liberal;PC;Green
+Toronto,244,NDP;Green;Liberal;PC
+Toronto,245,NDP;Green;Liberal;PC
+Toronto,246,NDP;PC;Green;Liberal
+Toronto,247,NDP;PC;Liberal;Green
+Toronto,248,Liberal;NDP;PC;Green
+Toronto,249,NDP;Green;PC;Liberal
+Toronto,250,NDP;PC;Green;Liberal
+Ottawa,251,Liberal;NDP;PC;Green
+Ottawa,252,NDP;Liberal;PC;Green
+Ottawa,253,Liberal;Green;PC;NDP
+Ottawa,254,PC;Liberal;Green;NDP
+Ottawa,255,Liberal;Green;NDP;PC
+Ottawa,256,NDP;PC;Green;Liberal
+Ottawa,257,Green;Liberal;PC;NDP
+Ottawa,258,Liberal;Green;PC;NDP
+Ottawa,259,PC;NDP;Green;Liberal
+Ottawa,260,Green;Liberal;NDP;PC
+Ottawa,261,Green;PC;Liberal;NDP
+Ottawa,262,Liberal;PC;Green;NDP
+Ottawa,263,Green;Liberal;NDP;PC
+Ottawa,264,Liberal;Green;PC;NDP
+Ottawa,265,PC;Green;Liberal;NDP
+Ottawa,266,NDP;Green;Liberal;PC
+Ottawa,267,Green;NDP;Liberal;PC
+Ottawa,268,Liberal;Green;NDP;PC
+Ottawa,269,Liberal;PC;Green;NDP
+Ottawa,270,Liberal;PC;NDP;Green
+Ottawa,271,Liberal;NDP;Green;PC
+Ottawa,272,NDP;Liberal;PC;Green
+Ottawa,273,Liberal;Green;NDP;PC
+Ottawa,274,PC;Liberal;NDP;Green
+Ottawa,275,Liberal;Green;PC;NDP
+Ottawa,276,PC;Liberal;Green;NDP
+Ottawa,277,Liberal;NDP;Green;PC
+Ottawa,278,NDP;Liberal;Green;PC
+Ottawa,279,Liberal;PC;NDP;Green
+Ottawa,280,Liberal;Green;NDP;PC
+Ottawa,281,Liberal;Green;NDP;PC
+Ottawa,282,PC;NDP;Liberal;Green
+Ottawa,283,Liberal;NDP;PC;Green
+Ottawa,284,Liberal;NDP;PC;Green
+Ottawa,285,NDP;PC;Green;Liberal
+Ottawa,286,NDP;Green;PC;Liberal
+Ottawa,287,Liberal;Green;PC;NDP
+Ottawa,288,Liberal;NDP;Green;PC
+Ottawa,289,Liberal;PC;NDP;Green
+Ottawa,290,PC;Green;NDP;Liberal
+Ottawa,291,NDP;PC;Liberal;Green
+Ottawa,292,Liberal;Green;NDP;PC
+Ottawa,293,Green;NDP;Liberal;PC
+Ottawa,294,Liberal;Green;PC;NDP
+Ottawa,295,Green;PC;Liberal;NDP
+Ottawa,296,Liberal;PC;Green;NDP
+Ottawa,297,NDP;Green;PC;Liberal
+Ottawa,298,Liberal;PC;NDP;Green
+Ottawa,299,NDP;PC;Liberal;Green
+Ottawa,300,NDP;Green;PC;Liberal
+Ottawa,301,Liberal;PC;Green;NDP
+Ottawa,302,Liberal;NDP;PC;Green
+Ottawa,303,Liberal;NDP;Green;PC
+Ottawa,304,Liberal;NDP;Green;PC
+Ottawa,305,Green;PC;Liberal;NDP
+Ottawa,306,Liberal;Green;PC;NDP
+Ottawa,307,Liberal;Green;PC;NDP
+Ottawa,308,NDP;PC;Liberal;Green
+Ottawa,309,Liberal;Green;NDP;PC
+Ottawa,310,Liberal;PC;Green;NDP
+Ottawa,311,PC;NDP;Liberal;Green
+Ottawa,312,Liberal;Green;NDP;PC
+Ottawa,313,NDP;PC;Liberal;Green
+Ottawa,314,PC;Liberal;NDP;Green
+Ottawa,315,PC;NDP;Liberal;Green
+Ottawa,316,Liberal;Green;PC;NDP
+Ottawa,317,PC;Green;NDP;Liberal
+Ottawa,318,NDP;PC;Green;Liberal
+Ottawa,319,Liberal;Green;PC;NDP
+Ottawa,320,Green;PC;NDP;Liberal
+Ottawa,321,Liberal;NDP;Green;PC
+Ottawa,322,Liberal;NDP;Green;PC
+Ottawa,323,Liberal;NDP;PC;Green
+Ottawa,324,Liberal;NDP;Green;PC
+Ottawa,325,PC;Green;NDP;Liberal
+Ottawa,326,Liberal;NDP;PC;Green
+Ottawa,327,PC;Green;NDP;Liberal
+Ottawa,328,Liberal;Green;NDP;PC
+Ottawa,329,Liberal;Green;NDP;PC
+Ottawa,330,PC;Liberal;NDP;Green
+Ottawa,331,Liberal;NDP;Green;PC
+Ottawa,332,Green;Liberal;PC;NDP
+Ottawa,333,Liberal;Green;NDP;PC
+Ottawa,334,Liberal;Green;PC;NDP
+Ottawa,335,PC;Liberal;NDP;Green
+Ottawa,336,NDP;PC;Green;Liberal
+Ottawa,337,PC;NDP;Liberal;Green
+Ottawa,338,Liberal;Green;PC;NDP
+Ottawa,339,Liberal;NDP;PC;Green
+Ottawa,340,Green;PC;NDP;Liberal
+Ottawa,341,PC;NDP;Liberal;Green
+Ottawa,342,NDP;PC;Liberal;Green
+Ottawa,343,Liberal;NDP;PC;Green
+Ottawa,344,Liberal;PC;Green;NDP
+Ottawa,345,Liberal;PC;Green;NDP
+Ottawa,346,Liberal;Green;PC;NDP
+Ottawa,347,Liberal;PC;NDP;Green
+Ottawa,348,PC;NDP;Green;Liberal
+Ottawa,349,NDP;PC;Green;Liberal
+Ottawa,350,Liberal;Green;PC;NDP
+Ottawa,351,Liberal;PC;NDP;Green
+Ottawa,352,PC;NDP;Liberal;Green
+Ottawa,353,PC;Liberal;Green;NDP
+Ottawa,354,NDP;PC;Green;Liberal
+Ottawa,355,Liberal;PC;NDP;Green
+Ottawa,356,Liberal;PC;Green;NDP
+Ottawa,357,Liberal;PC;NDP;Green
+Ottawa,358,Liberal;Green;NDP;PC
+Ottawa,359,Liberal;NDP;Green;PC
+Ottawa,360,Liberal;PC;NDP;Green
+Ottawa,361,Liberal;NDP;PC;Green
+Ottawa,362,Liberal;PC;NDP;Green
+Ottawa,363,Green;NDP;Liberal;PC
+Ottawa,364,Liberal;Green;NDP;PC
+Ottawa,365,Liberal;PC;Green;NDP
+Ottawa,366,Liberal;NDP;PC;Green
+Ottawa,367,Liberal;NDP;Green;PC
+Ottawa,368,Liberal;PC;Green;NDP
+Ottawa,369,NDP;PC;Green;Liberal
+Ottawa,370,Liberal;Green;PC;NDP
+Ottawa,371,NDP;Liberal;PC;Green
+Ottawa,372,NDP;Green;Liberal;PC
+Ottawa,373,Liberal;Green;NDP;PC
+Ottawa,374,Liberal;NDP;Green;PC
+Ottawa,375,PC;Liberal;NDP;Green
+Ottawa,376,Green;PC;NDP;Liberal
+Ottawa,377,Liberal;Green;PC;NDP
+Ottawa,378,NDP;Liberal;PC;Green
+Ottawa,379,NDP;PC;Liberal;Green
+Ottawa,380,Liberal;NDP;PC;Green
+Ottawa,381,NDP;Liberal;PC;Green
+Ottawa,382,Green;NDP;Liberal;PC
+Ottawa,383,Liberal;PC;Green;NDP
+Ottawa,384,Green;NDP;PC;Liberal
+Ottawa,385,Liberal;PC;Green;NDP
+Ottawa,386,Liberal;PC;NDP;Green
+Ottawa,387,PC;Green;Liberal;NDP
+Ottawa,388,NDP;PC;Liberal;Green
+Ottawa,389,Green;Liberal;NDP;PC
+Ottawa,390,Liberal;Green;PC;NDP
+Ottawa,391,NDP;Liberal;Green;PC
+Ottawa,392,NDP;PC;Green;Liberal
+Ottawa,393,Green;Liberal;NDP;PC
+Ottawa,394,PC;NDP;Liberal;Green
+Ottawa,395,Liberal;PC;NDP;Green
+Ottawa,396,Liberal;Green;NDP;PC
+Ottawa,397,Liberal;PC;NDP;Green
+Ottawa,398,NDP;Green;Liberal;PC
+Ottawa,399,PC;Liberal;Green;NDP
+Ottawa,400,Liberal;Green;NDP;PC
+Ottawa,401,Liberal;NDP;Green;PC
+Ottawa,402,NDP;PC;Liberal;Green
+Ottawa,403,NDP;PC;Liberal;Green
+Ottawa,404,Green;NDP;PC;Liberal
+Ottawa,405,Liberal;PC;NDP;Green
+Ottawa,406,Liberal;Green;PC;NDP
+Ottawa,407,NDP;PC;Liberal;Green
+Ottawa,408,Liberal;NDP;Green;PC
+Ottawa,409,NDP;PC;Green;Liberal
+Ottawa,410,Liberal;PC;NDP;Green
+Ottawa,411,NDP;PC;Green;Liberal
+Ottawa,412,NDP;PC;Green;Liberal
+Ottawa,413,Green;PC;Liberal;NDP
+Ottawa,414,Liberal;PC;Green;NDP
+Ottawa,415,PC;Green;NDP;Liberal
+Ottawa,416,Liberal;NDP;Green;PC
+Ottawa,417,Liberal;PC;Green;NDP
+Ottawa,418,Liberal;NDP;Green;PC
+Ottawa,419,Green;NDP;PC;Liberal
+Ottawa,420,PC;Green;Liberal;NDP
+Ottawa,421,NDP;Liberal;PC;Green
+Ottawa,422,Liberal;PC;NDP;Green
+Ottawa,423,NDP;Liberal;PC;Green
+Ottawa,424,Liberal;PC;NDP;Green
+Ottawa,425,Liberal;Green;PC;NDP
+Ottawa,426,Liberal;Green;PC;NDP
+Ottawa,427,Liberal;NDP;Green;PC
+Ottawa,428,Liberal;PC;Green;NDP
+Ottawa,429,PC;Liberal;NDP;Green
+Ottawa,430,Liberal;PC;Green;NDP
+Ottawa,431,NDP;PC;Liberal;Green
+Ottawa,432,PC;Green;Liberal;NDP
+Ottawa,433,Liberal;NDP;Green;PC
+Ottawa,434,Liberal;Green;PC;NDP
+Ottawa,435,Liberal;Green;PC;NDP
+Ottawa,436,NDP;Green;PC;Liberal
+Ottawa,437,NDP;Green;PC;Liberal
+Ottawa,438,Liberal;Green;PC;NDP
+Ottawa,439,Liberal;Green;PC;NDP
+Ottawa,440,Liberal;NDP;Green;PC
+Ottawa,441,NDP;Green;PC;Liberal
+Ottawa,442,PC;NDP;Liberal;Green
+Ottawa,443,NDP;Green;PC;Liberal
+Ottawa,444,NDP;PC;Liberal;Green
+Ottawa,445,PC;NDP;Liberal;Green
+Ottawa,446,NDP;PC;Green;Liberal
+Ottawa,447,Liberal;NDP;Green;PC
+Ottawa,448,Liberal;NDP;Green;PC
+Ottawa,449,PC;NDP;Liberal;Green
+Ottawa,450,Liberal;Green;PC;NDP
+Ottawa,451,PC;NDP;Green;Liberal
+Ottawa,452,NDP;Liberal;PC;Green
+Ottawa,453,Liberal;NDP;PC;Green
+Ottawa,454,Liberal;Green;NDP;PC
+Ottawa,455,Liberal;NDP;Green;PC
+Ottawa,456,NDP;Liberal;Green;PC
+Ottawa,457,Liberal;Green;PC;NDP
+Ottawa,458,Liberal;Green;PC;NDP
+Ottawa,459,NDP;PC;Liberal;Green
+Ottawa,460,NDP;PC;Green;Liberal
+Ottawa,461,PC;Liberal;Green;NDP
+Ottawa,462,PC;Green;NDP;Liberal
+Ottawa,463,PC;Green;Liberal;NDP
+Ottawa,464,Liberal;Green;NDP;PC
+Ottawa,465,Liberal;PC;Green;NDP
+Ottawa,466,Green;PC;NDP;Liberal
+Ottawa,467,Liberal;PC;NDP;Green
+Ottawa,468,Liberal;NDP;PC;Green
+Ottawa,469,PC;NDP;Green;Liberal
+Ottawa,470,NDP;Green;Liberal;PC
+Ottawa,471,Green;PC;NDP;Liberal
+Ottawa,472,Liberal;Green;NDP;PC
+Ottawa,473,PC;Liberal;Green;NDP
+Ottawa,474,NDP;Liberal;PC;Green
+Ottawa,475,Liberal;NDP;Green;PC
+Ottawa,476,NDP;Liberal;Green;PC
+Ottawa,477,Liberal;Green;PC;NDP
+Ottawa,478,NDP;Liberal;PC;Green
+Ottawa,479,NDP;PC;Green;Liberal
+Ottawa,480,NDP;Green;Liberal;PC
+Ottawa,481,NDP;Liberal;Green;PC
+Ottawa,482,PC;Green;Liberal;NDP
+Ottawa,483,PC;Liberal;NDP;Green
+Ottawa,484,Liberal;Green;NDP;PC
+Ottawa,485,NDP;PC;Green;Liberal
+Ottawa,486,Green;PC;NDP;Liberal
+Ottawa,487,Green;NDP;Liberal;PC
+Ottawa,488,Liberal;Green;NDP;PC
+Ottawa,489,NDP;Green;Liberal;PC
+Ottawa,490,PC;Green;Liberal;NDP
+Ottawa,491,NDP;Green;Liberal;PC
+Ottawa,492,PC;Green;NDP;Liberal
+Ottawa,493,Liberal;NDP;PC;Green
+Ottawa,494,Liberal;Green;NDP;PC
+Ottawa,495,Liberal;NDP;PC;Green
+Ottawa,496,PC;Green;Liberal;NDP
+Ottawa,497,PC;Liberal;Green;NDP
+Ottawa,498,NDP;Liberal;Green;PC
+Ottawa,499,NDP;Green;Liberal;PC
+Ottawa,500,Green;NDP;PC;Liberal
+Niagara Falls,501,Liberal;NDP;PC;Green
+Niagara Falls,502,NDP;Liberal;PC;Green
+Niagara Falls,503,PC;NDP;Liberal;Green
+Niagara Falls,504,PC;NDP;Green;Liberal
+Niagara Falls,505,Liberal;Green;NDP;PC
+Niagara Falls,506,PC;Liberal;Green;NDP
+Niagara Falls,507,NDP;Green;Liberal;PC
+Niagara Falls,508,NDP;PC;Liberal;Green
+Niagara Falls,509,PC;NDP;Green;Liberal
+Niagara Falls,510,NDP;Green;PC;Liberal
+Niagara Falls,511,PC;Liberal;NDP;Green
+Niagara Falls,512,Liberal;NDP;PC;Green
+Niagara Falls,513,Liberal;NDP;PC;Green
+Niagara Falls,514,NDP;Liberal;PC;Green
+Niagara Falls,515,PC;NDP;Green;Liberal
+Niagara Falls,516,PC;Liberal;Green;NDP
+Niagara Falls,517,PC;NDP;Liberal;Green
+Niagara Falls,518,Liberal;PC;NDP;Green
+Niagara Falls,519,NDP;Liberal;Green;PC
+Niagara Falls,520,PC;Green;Liberal;NDP
+Niagara Falls,521,Liberal;Green;NDP;PC
+Niagara Falls,522,Liberal;PC;NDP;Green
+Niagara Falls,523,PC;NDP;Green;Liberal
+Niagara Falls,524,Liberal;NDP;PC;Green
+Niagara Falls,525,Liberal;Green;PC;NDP
+Niagara Falls,526,PC;Liberal;Green;NDP
+Niagara Falls,527,Liberal;NDP;Green;PC
+Niagara Falls,528,PC;NDP;Green;Liberal
+Niagara Falls,529,PC;Green;NDP;Liberal
+Niagara Falls,530,NDP;Green;Liberal;PC
+Niagara Falls,531,Liberal;PC;Green;NDP
+Niagara Falls,532,PC;Green;Liberal;NDP
+Niagara Falls,533,Liberal;NDP;PC;Green
+Niagara Falls,534,PC;NDP;Liberal;Green
+Niagara Falls,535,Liberal;NDP;PC;Green
+Niagara Falls,536,Liberal;PC;Green;NDP
+Niagara Falls,537,PC;NDP;Liberal;Green
+Niagara Falls,538,NDP;Liberal;Green;PC
+Niagara Falls,539,NDP;Green;Liberal;PC
+Niagara Falls,540,Green;NDP;Liberal;PC
+Niagara Falls,541,NDP;PC;Green;Liberal
+Niagara Falls,542,Liberal;PC;NDP;Green
+Niagara Falls,543,PC;Green;Liberal;NDP
+Niagara Falls,544,PC;Green;Liberal;NDP
+Niagara Falls,545,Green;NDP;PC;Liberal
+Niagara Falls,546,Green;PC;Liberal;NDP
+Niagara Falls,547,Liberal;NDP;PC;Green
+Niagara Falls,548,NDP;PC;Green;Liberal
+Niagara Falls,549,NDP;Liberal;Green;PC
+Niagara Falls,550,NDP;PC;Green;Liberal
+Niagara Falls,551,PC;NDP;Liberal;Green
+Niagara Falls,552,PC;NDP;Liberal;Green
+Niagara Falls,553,PC;Green;NDP;Liberal
+Niagara Falls,554,Liberal;PC;Green;NDP
+Niagara Falls,555,PC;NDP;Green;Liberal
+Niagara Falls,556,Liberal;NDP;PC;Green
+Niagara Falls,557,PC;Liberal;Green;NDP
+Niagara Falls,558,PC;Liberal;NDP;Green
+Niagara Falls,559,PC;Liberal;Green;NDP
+Niagara Falls,560,PC;NDP;Liberal;Green
+Niagara Falls,561,Liberal;Green;PC;NDP
+Niagara Falls,562,PC;Liberal;Green;NDP
+Niagara Falls,563,PC;Green;NDP;Liberal
+Niagara Falls,564,Liberal;Green;NDP;PC
+Niagara Falls,565,Liberal;PC;Green;NDP
+Niagara Falls,566,Liberal;NDP;PC;Green
+Niagara Falls,567,NDP;Liberal;Green;PC
+Niagara Falls,568,PC;Liberal;Green;NDP
+Niagara Falls,569,PC;NDP;Green;Liberal
+Niagara Falls,570,Liberal;NDP;Green;PC
+Niagara Falls,571,PC;Liberal;NDP;Green
+Niagara Falls,572,NDP;Liberal;PC;Green
+Niagara Falls,573,PC;NDP;Liberal;Green
+Niagara Falls,574,Liberal;Green;PC;NDP
+Niagara Falls,575,Liberal;PC;Green;NDP
+Niagara Falls,576,PC;Green;Liberal;NDP
+Niagara Falls,577,PC;Liberal;Green;NDP
+Niagara Falls,578,PC;Liberal;NDP;Green
+Niagara Falls,579,PC;NDP;Liberal;Green
+Niagara Falls,580,Liberal;PC;Green;NDP
+Niagara Falls,581,Green;PC;NDP;Liberal
+Niagara Falls,582,PC;Liberal;NDP;Green
+Niagara Falls,583,NDP;Green;PC;Liberal
+Niagara Falls,584,PC;NDP;Liberal;Green
+Niagara Falls,585,Liberal;Green;NDP;PC
+Niagara Falls,586,PC;Liberal;NDP;Green
+Niagara Falls,587,NDP;PC;Green;Liberal
+Niagara Falls,588,NDP;Green;Liberal;PC
+Niagara Falls,589,PC;NDP;Green;Liberal
+Niagara Falls,590,PC;Liberal;Green;NDP
+Niagara Falls,591,Liberal;PC;NDP;Green
+Niagara Falls,592,Liberal;NDP;PC;Green
+Niagara Falls,593,Green;Liberal;PC;NDP
+Niagara Falls,594,NDP;Green;PC;Liberal
+Niagara Falls,595,Green;Liberal;PC;NDP
+Niagara Falls,596,PC;Liberal;NDP;Green
+Niagara Falls,597,NDP;PC;Liberal;Green
+Niagara Falls,598,PC;NDP;Liberal;Green
+Niagara Falls,599,Liberal;PC;NDP;Green
+Niagara Falls,600,NDP;Liberal;PC;Green
+Niagara Falls,601,NDP;Green;Liberal;PC
+Niagara Falls,602,NDP;Liberal;PC;Green
+Niagara Falls,603,PC;NDP;Green;Liberal
+Niagara Falls,604,Liberal;PC;Green;NDP
+Niagara Falls,605,PC;Liberal;NDP;Green
+Niagara Falls,606,PC;Green;Liberal;NDP
+Niagara Falls,607,PC;NDP;Liberal;Green
+Niagara Falls,608,PC;Green;NDP;Liberal
+Niagara Falls,609,PC;NDP;Green;Liberal
+Niagara Falls,610,PC;NDP;Liberal;Green
+Niagara Falls,611,PC;NDP;Liberal;Green
+Niagara Falls,612,Liberal;NDP;PC;Green
+Niagara Falls,613,Liberal;Green;NDP;PC
+Niagara Falls,614,PC;Liberal;NDP;Green
+Niagara Falls,615,PC;NDP;Green;Liberal
+Niagara Falls,616,Liberal;PC;Green;NDP
+Niagara Falls,617,Liberal;Green;NDP;PC
+Niagara Falls,618,PC;Green;NDP;Liberal
+Niagara Falls,619,PC;Liberal;NDP;Green
+Niagara Falls,620,PC;NDP;Green;Liberal
+Niagara Falls,621,NDP;PC;Green;Liberal
+Niagara Falls,622,PC;NDP;Liberal;Green
+Niagara Falls,623,PC;Liberal;Green;NDP
+Niagara Falls,624,PC;Green;NDP;Liberal
+Niagara Falls,625,PC;NDP;Green;Liberal
+Niagara Falls,626,PC;Green;NDP;Liberal
+Niagara Falls,627,NDP;Liberal;PC;Green
+Niagara Falls,628,PC;Liberal;NDP;Green
+Niagara Falls,629,NDP;Green;Liberal;PC
+Niagara Falls,630,Liberal;NDP;PC;Green
+Niagara Falls,631,PC;Green;NDP;Liberal
+Niagara Falls,632,PC;Green;Liberal;NDP
+Niagara Falls,633,PC;NDP;Green;Liberal
+Niagara Falls,634,Green;NDP;Liberal;PC
+Niagara Falls,635,PC;NDP;Green;Liberal
+Niagara Falls,636,PC;NDP;Green;Liberal
+Niagara Falls,637,Liberal;PC;NDP;Green
+Niagara Falls,638,PC;NDP;Green;Liberal
+Niagara Falls,639,NDP;PC;Green;Liberal
+Niagara Falls,640,NDP;PC;Green;Liberal
+Niagara Falls,641,PC;Green;Liberal;NDP
+Niagara Falls,642,PC;NDP;Liberal;Green
+Niagara Falls,643,Liberal;NDP;Green;PC
+Niagara Falls,644,PC;NDP;Liberal;Green
+Niagara Falls,645,PC;NDP;Liberal;Green
+Niagara Falls,646,PC;NDP;Green;Liberal
+Niagara Falls,647,NDP;Liberal;PC;Green
+Niagara Falls,648,PC;Liberal;Green;NDP
+Niagara Falls,649,Liberal;Green;PC;NDP
+Niagara Falls,650,PC;Green;Liberal;NDP
+Niagara Falls,651,NDP;Liberal;Green;PC
+Niagara Falls,652,PC;NDP;Liberal;Green
+Niagara Falls,653,PC;Liberal;NDP;Green
+Niagara Falls,654,NDP;PC;Liberal;Green
+Niagara Falls,655,NDP;PC;Green;Liberal
+Niagara Falls,656,PC;NDP;Liberal;Green
+Niagara Falls,657,PC;NDP;Green;Liberal
+Niagara Falls,658,Liberal;Green;PC;NDP
+Niagara Falls,659,Green;PC;NDP;Liberal
+Niagara Falls,660,PC;Green;Liberal;NDP
+Niagara Falls,661,PC;NDP;Liberal;Green
+Niagara Falls,662,Green;PC;Liberal;NDP
+Niagara Falls,663,PC;NDP;Liberal;Green
+Niagara Falls,664,PC;Liberal;NDP;Green
+Niagara Falls,665,PC;NDP;Liberal;Green
+Niagara Falls,666,PC;Liberal;NDP;Green
+Niagara Falls,667,PC;Liberal;Green;NDP
+Niagara Falls,668,PC;NDP;Green;Liberal
+Niagara Falls,669,Liberal;Green;NDP;PC
+Niagara Falls,670,NDP;PC;Liberal;Green
+Niagara Falls,671,NDP;PC;Green;Liberal
+Niagara Falls,672,Liberal;PC;NDP;Green
+Niagara Falls,673,PC;NDP;Liberal;Green
+Niagara Falls,674,Liberal;Green;PC;NDP
+Niagara Falls,675,Green;PC;NDP;Liberal
+Niagara Falls,676,PC;Green;NDP;Liberal
+Niagara Falls,677,PC;NDP;Liberal;Green
+Niagara Falls,678,NDP;Liberal;Green;PC
+Niagara Falls,679,NDP;PC;Liberal;Green
+Niagara Falls,680,NDP;Liberal;Green;PC
+Niagara Falls,681,Liberal;Green;PC;NDP
+Niagara Falls,682,PC;Liberal;NDP;Green
+Niagara Falls,683,Liberal;PC;NDP;Green
+Niagara Falls,684,Liberal;NDP;Green;PC
+Niagara Falls,685,PC;NDP;Green;Liberal
+Niagara Falls,686,PC;Liberal;NDP;Green
+Niagara Falls,687,Liberal;Green;NDP;PC
+Niagara Falls,688,NDP;PC;Green;Liberal
+Niagara Falls,689,NDP;Liberal;PC;Green
+Niagara Falls,690,Liberal;Green;PC;NDP
+Niagara Falls,691,PC;NDP;Green;Liberal
+Niagara Falls,692,Liberal;PC;NDP;Green
+Niagara Falls,693,PC;Green;Liberal;NDP
+Niagara Falls,694,PC;NDP;Liberal;Green
+Niagara Falls,695,Liberal;Green;PC;NDP
+Niagara Falls,696,NDP;PC;Green;Liberal
+Niagara Falls,697,NDP;PC;Liberal;Green
+Niagara Falls,698,PC;Green;NDP;Liberal
+Niagara Falls,699,Liberal;NDP;PC;Green
+Niagara Falls,700,PC;Liberal;Green;NDP
+Niagara Falls,701,NDP;Green;Liberal;PC
+Niagara Falls,702,PC;NDP;Liberal;Green
+Niagara Falls,703,PC;NDP;Liberal;Green
+Niagara Falls,704,Liberal;NDP;Green;PC
+Niagara Falls,705,PC;Liberal;Green;NDP
+Niagara Falls,706,Liberal;Green;PC;NDP
+Niagara Falls,707,Liberal;NDP;Green;PC
+Niagara Falls,708,NDP;Green;PC;Liberal
+Niagara Falls,709,NDP;PC;Green;Liberal
+Niagara Falls,710,PC;Green;NDP;Liberal
+Niagara Falls,711,NDP;PC;Green;Liberal
+Niagara Falls,712,Liberal;Green;NDP;PC
+Niagara Falls,713,NDP;Green;PC;Liberal
+Niagara Falls,714,PC;Green;Liberal;NDP
+Niagara Falls,715,Liberal;Green;PC;NDP
+Niagara Falls,716,PC;Liberal;Green;NDP
+Niagara Falls,717,NDP;Liberal;PC;Green
+Niagara Falls,718,NDP;Liberal;PC;Green
+Niagara Falls,719,NDP;Liberal;PC;Green
+Niagara Falls,720,Liberal;Green;PC;NDP
+Niagara Falls,721,Liberal;Green;PC;NDP
+Niagara Falls,722,PC;Green;Liberal;NDP
+Niagara Falls,723,PC;Liberal;Green;NDP
+Niagara Falls,724,NDP;Green;PC;Liberal
+Niagara Falls,725,PC;NDP;Green;Liberal
+Niagara Falls,726,PC;NDP;Green;Liberal
+Niagara Falls,727,Liberal;NDP;PC;Green
+Niagara Falls,728,NDP;Liberal;Green;PC
+Niagara Falls,729,Liberal;Green;NDP;PC
+Niagara Falls,730,NDP;PC;Green;Liberal
+Niagara Falls,731,PC;Liberal;NDP;Green
+Niagara Falls,732,Liberal;PC;NDP;Green
+Niagara Falls,733,PC;NDP;Liberal;Green
+Niagara Falls,734,Green;Liberal;NDP;PC
+Niagara Falls,735,Liberal;NDP;PC;Green
+Niagara Falls,736,Liberal;Green;PC;NDP
+Niagara Falls,737,Liberal;NDP;PC;Green
+Niagara Falls,738,PC;Liberal;NDP;Green
+Niagara Falls,739,Liberal;PC;NDP;Green
+Niagara Falls,740,Liberal;PC;NDP;Green
+Niagara Falls,741,NDP;Green;Liberal;PC
+Niagara Falls,742,Liberal;PC;NDP;Green
+Niagara Falls,743,Liberal;PC;NDP;Green
+Niagara Falls,744,NDP;PC;Green;Liberal
+Niagara Falls,745,PC;NDP;Green;Liberal
+Niagara Falls,746,PC;Liberal;Green;NDP
+Niagara Falls,747,PC;Liberal;Green;NDP
+Niagara Falls,748,NDP;PC;Liberal;Green
+Niagara Falls,749,Liberal;Green;PC;NDP
+Niagara Falls,750,NDP;Liberal;Green;PC
+Mississauga,751,Liberal;PC;NDP;Green
+Mississauga,752,Liberal;Green;PC;NDP
+Mississauga,753,Green;PC;Liberal;NDP
+Mississauga,754,PC;NDP;Green;Liberal
+Mississauga,755,Liberal;NDP;Green;PC
+Mississauga,756,NDP;PC;Liberal;Green
+Mississauga,757,Liberal;PC;Green;NDP
+Mississauga,758,PC;Green;NDP;Liberal
+Mississauga,759,Liberal;PC;NDP;Green
+Mississauga,760,Liberal;Green;PC;NDP
+Mississauga,761,PC;NDP;Green;Liberal
+Mississauga,762,Liberal;Green;NDP;PC
+Mississauga,763,Liberal;NDP;Green;PC
+Mississauga,764,Liberal;PC;Green;NDP
+Mississauga,765,PC;Green;NDP;Liberal
+Mississauga,766,Liberal;NDP;Green;PC
+Mississauga,767,PC;Green;NDP;Liberal
+Mississauga,768,PC;NDP;Liberal;Green
+Mississauga,769,Liberal;NDP;Green;PC
+Mississauga,770,NDP;Liberal;PC;Green
+Mississauga,771,Liberal;NDP;Green;PC
+Mississauga,772,Liberal;Green;NDP;PC
+Mississauga,773,PC;Liberal;Green;NDP
+Mississauga,774,Liberal;PC;Green;NDP
+Mississauga,775,NDP;PC;Green;Liberal
+Mississauga,776,Liberal;NDP;Green;PC
+Mississauga,777,Liberal;NDP;PC;Green
+Mississauga,778,Liberal;NDP;Green;PC
+Mississauga,779,PC;Liberal;NDP;Green
+Mississauga,780,Liberal;PC;NDP;Green
+Mississauga,781,PC;Green;NDP;Liberal
+Mississauga,782,Liberal;PC;NDP;Green
+Mississauga,783,NDP;Liberal;PC;Green
+Mississauga,784,NDP;Liberal;PC;Green
+Mississauga,785,PC;Green;NDP;Liberal
+Mississauga,786,PC;Green;NDP;Liberal
+Mississauga,787,PC;Green;NDP;Liberal
+Mississauga,788,Liberal;Green;NDP;PC
+Mississauga,789,PC;Liberal;NDP;Green
+Mississauga,790,PC;Liberal;Green;NDP
+Mississauga,791,PC;Liberal;Green;NDP
+Mississauga,792,PC;NDP;Green;Liberal
+Mississauga,793,Liberal;Green;PC;NDP
+Mississauga,794,PC;NDP;Green;Liberal
+Mississauga,795,Liberal;Green;PC;NDP
+Mississauga,796,PC;Green;Liberal;NDP
+Mississauga,797,PC;Green;NDP;Liberal
+Mississauga,798,PC;NDP;Liberal;Green
+Mississauga,799,NDP;Liberal;Green;PC
+Mississauga,800,PC;Liberal;NDP;Green
+Mississauga,801,PC;Liberal;Green;NDP
+Mississauga,802,PC;Green;Liberal;NDP
+Mississauga,803,PC;Green;Liberal;NDP
+Mississauga,804,Liberal;NDP;Green;PC
+Mississauga,805,NDP;PC;Green;Liberal
+Mississauga,806,PC;Liberal;Green;NDP
+Mississauga,807,NDP;Green;Liberal;PC
+Mississauga,808,NDP;Liberal;PC;Green
+Mississauga,809,NDP;Green;Liberal;PC
+Mississauga,810,PC;NDP;Liberal;Green
+Mississauga,811,PC;NDP;Green;Liberal
+Mississauga,812,NDP;PC;Green;Liberal
+Mississauga,813,PC;NDP;Green;Liberal
+Mississauga,814,PC;Liberal;NDP;Green
+Mississauga,815,Liberal;NDP;PC;Green
+Mississauga,816,Liberal;Green;PC;NDP
+Mississauga,817,PC;Liberal;NDP;Green
+Mississauga,818,Liberal;Green;NDP;PC
+Mississauga,819,NDP;PC;Liberal;Green
+Mississauga,820,Liberal;PC;Green;NDP
+Mississauga,821,NDP;PC;Green;Liberal
+Mississauga,822,Liberal;PC;Green;NDP
+Mississauga,823,Liberal;NDP;PC;Green
+Mississauga,824,Liberal;PC;Green;NDP
+Mississauga,825,Liberal;NDP;PC;Green
+Mississauga,826,PC;Green;Liberal;NDP
+Mississauga,827,Liberal;PC;NDP;Green
+Mississauga,828,NDP;Green;Liberal;PC
+Mississauga,829,NDP;Green;Liberal;PC
+Mississauga,830,PC;Liberal;NDP;Green
+Mississauga,831,Liberal;Green;NDP;PC
+Mississauga,832,Liberal;Green;NDP;PC
+Mississauga,833,Liberal;NDP;PC;Green
+Mississauga,834,Liberal;PC;Green;NDP
+Mississauga,835,NDP;Liberal;PC;Green
+Mississauga,836,NDP;Green;PC;Liberal
+Mississauga,837,Liberal;NDP;Green;PC
+Mississauga,838,PC;Green;Liberal;NDP
+Mississauga,839,PC;NDP;Liberal;Green
+Mississauga,840,Liberal;Green;PC;NDP
+Mississauga,841,Liberal;NDP;Green;PC
+Mississauga,842,PC;NDP;Liberal;Green
+Mississauga,843,PC;Green;NDP;Liberal
+Mississauga,844,NDP;PC;Liberal;Green
+Mississauga,845,Liberal;NDP;PC;Green
+Mississauga,846,Liberal;NDP;PC;Green
+Mississauga,847,Liberal;NDP;Green;PC
+Mississauga,848,Liberal;NDP;Green;PC
+Mississauga,849,NDP;Liberal;Green;PC
+Mississauga,850,Liberal;Green;PC;NDP
+Mississauga,851,Liberal;PC;NDP;Green
+Mississauga,852,NDP;Green;Liberal;PC
+Mississauga,853,PC;Liberal;Green;NDP
+Mississauga,854,PC;Green;NDP;Liberal
+Mississauga,855,Liberal;Green;NDP;PC
+Mississauga,856,PC;Liberal;NDP;Green
+Mississauga,857,PC;Green;NDP;Liberal
+Mississauga,858,Liberal;NDP;Green;PC
+Mississauga,859,PC;Liberal;Green;NDP
+Mississauga,860,NDP;Liberal;PC;Green
+Mississauga,861,PC;Liberal;Green;NDP
+Mississauga,862,PC;NDP;Liberal;Green
+Mississauga,863,NDP;Liberal;PC;Green
+Mississauga,864,Liberal;NDP;PC;Green
+Mississauga,865,PC;Green;NDP;Liberal
+Mississauga,866,Liberal;NDP;Green;PC
+Mississauga,867,Liberal;Green;NDP;PC
+Mississauga,868,PC;NDP;Green;Liberal
+Mississauga,869,NDP;PC;Green;Liberal
+Mississauga,870,NDP;Liberal;Green;PC
+Mississauga,871,Liberal;NDP;PC;Green
+Mississauga,872,Liberal;Green;PC;NDP
+Mississauga,873,Liberal;PC;Green;NDP
+Mississauga,874,PC;Liberal;Green;NDP
+Mississauga,875,PC;NDP;Liberal;Green
+Mississauga,876,PC;Green;NDP;Liberal
+Mississauga,877,NDP;Liberal;PC;Green
+Mississauga,878,Liberal;Green;NDP;PC
+Mississauga,879,Liberal;PC;NDP;Green
+Mississauga,880,Green;Liberal;NDP;PC
+Mississauga,881,PC;Green;NDP;Liberal
+Mississauga,882,PC;Green;Liberal;NDP
+Mississauga,883,PC;Liberal;NDP;Green
+Mississauga,884,Liberal;PC;Green;NDP
+Mississauga,885,Liberal;PC;Green;NDP
+Mississauga,886,Liberal;Green;NDP;PC
+Mississauga,887,PC;Liberal;Green;NDP
+Mississauga,888,NDP;Green;Liberal;PC
+Mississauga,889,PC;Green;NDP;Liberal
+Mississauga,890,Green;PC;Liberal;NDP
+Mississauga,891,NDP;Liberal;PC;Green
+Mississauga,892,Liberal;NDP;Green;PC
+Mississauga,893,PC;NDP;Liberal;Green
+Mississauga,894,PC;Liberal;NDP;Green
+Mississauga,895,PC;NDP;Green;Liberal
+Mississauga,896,NDP;Liberal;Green;PC
+Mississauga,897,NDP;Liberal;PC;Green
+Mississauga,898,Liberal;NDP;Green;PC
+Mississauga,899,PC;Green;Liberal;NDP
+Mississauga,900,PC;Liberal;Green;NDP
+Mississauga,901,Liberal;PC;Green;NDP
+Mississauga,902,Green;PC;Liberal;NDP
+Mississauga,903,NDP;PC;Liberal;Green
+Mississauga,904,PC;Green;NDP;Liberal
+Mississauga,905,PC;Liberal;NDP;Green
+Mississauga,906,PC;Liberal;Green;NDP
+Mississauga,907,Green;Liberal;PC;NDP
+Mississauga,908,PC;Liberal;Green;NDP
+Mississauga,909,Liberal;NDP;PC;Green
+Mississauga,910,PC;Green;NDP;Liberal
+Mississauga,911,Liberal;Green;PC;NDP
+Mississauga,912,PC;Green;NDP;Liberal
+Mississauga,913,Liberal;PC;Green;NDP
+Mississauga,914,Liberal;NDP;PC;Green
+Mississauga,915,NDP;PC;Green;Liberal
+Mississauga,916,Liberal;PC;NDP;Green
+Mississauga,917,Liberal;PC;Green;NDP
+Mississauga,918,Liberal;NDP;PC;Green
+Mississauga,919,NDP;Liberal;PC;Green
+Mississauga,920,Liberal;PC;NDP;Green
+Mississauga,921,Liberal;NDP;PC;Green
+Mississauga,922,PC;NDP;Liberal;Green
+Mississauga,923,Liberal;PC;Green;NDP
+Mississauga,924,PC;Liberal;Green;NDP
+Mississauga,925,PC;Liberal;Green;NDP
+Mississauga,926,Liberal;PC;NDP;Green
+Mississauga,927,PC;Green;NDP;Liberal
+Mississauga,928,Green;PC;Liberal;NDP
+Mississauga,929,Liberal;Green;NDP;PC
+Mississauga,930,Liberal;Green;PC;NDP
+Mississauga,931,PC;Green;NDP;Liberal
+Mississauga,932,Liberal;PC;NDP;Green
+Mississauga,933,Liberal;PC;NDP;Green
+Mississauga,934,Liberal;Green;PC;NDP
+Mississauga,935,Liberal;NDP;PC;Green
+Mississauga,936,PC;Green;Liberal;NDP
+Mississauga,937,NDP;PC;Liberal;Green
+Mississauga,938,NDP;Liberal;Green;PC
+Mississauga,939,PC;Green;NDP;Liberal
+Mississauga,940,Liberal;PC;NDP;Green
+Mississauga,941,Green;NDP;PC;Liberal
+Mississauga,942,PC;NDP;Liberal;Green
+Mississauga,943,Liberal;NDP;Green;PC
+Mississauga,944,Liberal;Green;NDP;PC
+Mississauga,945,NDP;PC;Green;Liberal
+Mississauga,946,PC;Green;NDP;Liberal
+Mississauga,947,Liberal;Green;PC;NDP
+Mississauga,948,Green;Liberal;PC;NDP
+Mississauga,949,Liberal;NDP;Green;PC
+Mississauga,950,Green;Liberal;PC;NDP
+Mississauga,951,PC;Liberal;Green;NDP
+Mississauga,952,Liberal;Green;NDP;PC
+Mississauga,953,PC;Green;NDP;Liberal
+Mississauga,954,NDP;Liberal;PC;Green
+Mississauga,955,NDP;PC;Green;Liberal
+Mississauga,956,Liberal;Green;NDP;PC
+Mississauga,957,PC;NDP;Green;Liberal
+Mississauga,958,Liberal;PC;Green;NDP
+Mississauga,959,Liberal;Green;PC;NDP
+Mississauga,960,Liberal;NDP;Green;PC
+Mississauga,961,PC;Green;Liberal;NDP
+Mississauga,962,Liberal;NDP;Green;PC
+Mississauga,963,Liberal;Green;NDP;PC
+Mississauga,964,NDP;PC;Green;Liberal
+Mississauga,965,NDP;PC;Liberal;Green
+Mississauga,966,Liberal;PC;NDP;Green
+Mississauga,967,PC;Liberal;NDP;Green
+Mississauga,968,Liberal;Green;NDP;PC
+Mississauga,969,PC;NDP;Liberal;Green
+Mississauga,970,NDP;Liberal;PC;Green
+Mississauga,971,Liberal;PC;NDP;Green
+Mississauga,972,Liberal;NDP;PC;Green
+Mississauga,973,NDP;Liberal;Green;PC
+Mississauga,974,PC;NDP;Green;Liberal
+Mississauga,975,NDP;Liberal;PC;Green
+Mississauga,976,PC;Green;Liberal;NDP
+Mississauga,977,PC;Green;Liberal;NDP
+Mississauga,978,NDP;Liberal;Green;PC
+Mississauga,979,Liberal;PC;Green;NDP
+Mississauga,980,Liberal;NDP;Green;PC
+Mississauga,981,Green;PC;NDP;Liberal
+Mississauga,982,NDP;Liberal;Green;PC
+Mississauga,983,PC;Green;NDP;Liberal
+Mississauga,984,PC;Liberal;Green;NDP
+Mississauga,985,Liberal;NDP;PC;Green
+Mississauga,986,NDP;Green;Liberal;PC
+Mississauga,987,PC;NDP;Liberal;Green
+Mississauga,988,PC;NDP;Green;Liberal
+Mississauga,989,PC;Green;NDP;Liberal
+Mississauga,990,Liberal;NDP;PC;Green
+Mississauga,991,Liberal;PC;Green;NDP
+Mississauga,992,PC;Green;NDP;Liberal
+Mississauga,993,PC;Liberal;NDP;Green
+Mississauga,994,Liberal;Green;NDP;PC
+Mississauga,995,Liberal;PC;NDP;Green
+Mississauga,996,PC;Liberal;Green;NDP
+Mississauga,997,PC;Liberal;Green;NDP
+Mississauga,998,Liberal;NDP;Green;PC
+Mississauga,999,Liberal;PC;NDP;Green
+Mississauga,1000,Liberal;Green;PC;NDP
+Hamilton,1001,Liberal;Green;PC;NDP
+Hamilton,1002,NDP;PC;Liberal;Green
+Hamilton,1003,NDP;Green;PC;Liberal
+Hamilton,1004,Liberal;Green;NDP;PC
+Hamilton,1005,Liberal;Green;PC;NDP
+Hamilton,1006,Liberal;PC;NDP;Green
+Hamilton,1007,NDP;PC;Green;Liberal
+Hamilton,1008,Liberal;NDP;Green;PC
+Hamilton,1009,NDP;Green;Liberal;PC
+Hamilton,1010,NDP;Green;Liberal;PC
+Hamilton,1011,NDP;Green;PC;Liberal
+Hamilton,1012,NDP;Green;Liberal;PC
+Hamilton,1013,NDP;PC;Liberal;Green
+Hamilton,1014,PC;Liberal;NDP;Green
+Hamilton,1015,NDP;PC;Liberal;Green
+Hamilton,1016,NDP;Liberal;Green;PC
+Hamilton,1017,Liberal;Green;PC;NDP
+Hamilton,1018,NDP;Green;Liberal;PC
+Hamilton,1019,NDP;Liberal;Green;PC
+Hamilton,1020,NDP;PC;Liberal;Green
+Hamilton,1021,Green;Liberal;PC;NDP
+Hamilton,1022,NDP;PC;Green;Liberal
+Hamilton,1023,Green;Liberal;NDP;PC
+Hamilton,1024,Green;NDP;Liberal;PC
+Hamilton,1025,Green;NDP;PC;Liberal
+Hamilton,1026,NDP;PC;Liberal;Green
+Hamilton,1027,Liberal;PC;NDP;Green
+Hamilton,1028,NDP;Liberal;Green;PC
+Hamilton,1029,Liberal;NDP;PC;Green
+Hamilton,1030,NDP;PC;Liberal;Green
+Hamilton,1031,Liberal;NDP;PC;Green
+Hamilton,1032,Liberal;NDP;Green;PC
+Hamilton,1033,PC;Liberal;NDP;Green
+Hamilton,1034,NDP;Green;PC;Liberal
+Hamilton,1035,NDP;Green;Liberal;PC
+Hamilton,1036,Liberal;NDP;Green;PC
+Hamilton,1037,NDP;Green;Liberal;PC
+Hamilton,1038,NDP;Green;PC;Liberal
+Hamilton,1039,Green;NDP;PC;Liberal
+Hamilton,1040,PC;Green;Liberal;NDP
+Hamilton,1041,NDP;Liberal;PC;Green
+Hamilton,1042,PC;NDP;Green;Liberal
+Hamilton,1043,PC;Green;NDP;Liberal
+Hamilton,1044,Liberal;PC;Green;NDP
+Hamilton,1045,NDP;Liberal;PC;Green
+Hamilton,1046,NDP;Liberal;Green;PC
+Hamilton,1047,NDP;Green;Liberal;PC
+Hamilton,1048,NDP;Green;PC;Liberal
+Hamilton,1049,PC;Green;Liberal;NDP
+Hamilton,1050,Liberal;Green;NDP;PC
+Hamilton,1051,Green;NDP;PC;Liberal
+Hamilton,1052,Liberal;NDP;Green;PC
+Hamilton,1053,Green;NDP;PC;Liberal
+Hamilton,1054,NDP;PC;Green;Liberal
+Hamilton,1055,NDP;Liberal;PC;Green
+Hamilton,1056,NDP;Liberal;PC;Green
+Hamilton,1057,Liberal;PC;Green;NDP
+Hamilton,1058,Liberal;PC;Green;NDP
+Hamilton,1059,Liberal;NDP;Green;PC
+Hamilton,1060,NDP;Liberal;PC;Green
+Hamilton,1061,NDP;Liberal;Green;PC
+Hamilton,1062,Green;NDP;PC;Liberal
+Hamilton,1063,PC;Green;NDP;Liberal
+Hamilton,1064,Liberal;PC;Green;NDP
+Hamilton,1065,NDP;PC;Green;Liberal
+Hamilton,1066,NDP;Liberal;PC;Green
+Hamilton,1067,Liberal;Green;NDP;PC
+Hamilton,1068,PC;NDP;Green;Liberal
+Hamilton,1069,PC;Liberal;Green;NDP
+Hamilton,1070,PC;Liberal;Green;NDP
+Hamilton,1071,NDP;Liberal;Green;PC
+Hamilton,1072,PC;Liberal;Green;NDP
+Hamilton,1073,NDP;PC;Green;Liberal
+Hamilton,1074,NDP;Green;Liberal;PC
+Hamilton,1075,NDP;Green;Liberal;PC
+Hamilton,1076,Green;Liberal;NDP;PC
+Hamilton,1077,Green;Liberal;PC;NDP
+Hamilton,1078,Liberal;PC;Green;NDP
+Hamilton,1079,Green;NDP;PC;Liberal
+Hamilton,1080,Liberal;Green;NDP;PC
+Hamilton,1081,Liberal;NDP;Green;PC
+Hamilton,1082,NDP;PC;Green;Liberal
+Hamilton,1083,NDP;Liberal;Green;PC
+Hamilton,1084,Liberal;NDP;PC;Green
+Hamilton,1085,NDP;Green;Liberal;PC
+Hamilton,1086,NDP;PC;Liberal;Green
+Hamilton,1087,NDP;Green;Liberal;PC
+Hamilton,1088,Liberal;PC;NDP;Green
+Hamilton,1089,NDP;PC;Liberal;Green
+Hamilton,1090,Green;NDP;PC;Liberal
+Hamilton,1091,NDP;Green;PC;Liberal
+Hamilton,1092,NDP;Green;Liberal;PC
+Hamilton,1093,NDP;Green;Liberal;PC
+Hamilton,1094,Liberal;Green;NDP;PC
+Hamilton,1095,Green;Liberal;NDP;PC
+Hamilton,1096,NDP;Liberal;Green;PC
+Hamilton,1097,Liberal;NDP;PC;Green
+Hamilton,1098,Liberal;NDP;PC;Green
+Hamilton,1099,NDP;Liberal;PC;Green
+Hamilton,1100,NDP;Green;Liberal;PC
+Hamilton,1101,NDP;Liberal;PC;Green
+Hamilton,1102,Liberal;NDP;PC;Green
+Hamilton,1103,NDP;Liberal;PC;Green
+Hamilton,1104,NDP;PC;Green;Liberal
+Hamilton,1105,PC;Liberal;Green;NDP
+Hamilton,1106,PC;Green;Liberal;NDP
+Hamilton,1107,NDP;Liberal;Green;PC
+Hamilton,1108,PC;Green;Liberal;NDP
+Hamilton,1109,Liberal;Green;PC;NDP
+Hamilton,1110,NDP;Liberal;Green;PC
+Hamilton,1111,PC;Green;NDP;Liberal
+Hamilton,1112,NDP;PC;Green;Liberal
+Hamilton,1113,PC;Liberal;Green;NDP
+Hamilton,1114,NDP;Liberal;PC;Green
+Hamilton,1115,PC;Liberal;NDP;Green
+Hamilton,1116,Green;NDP;PC;Liberal
+Hamilton,1117,NDP;Green;Liberal;PC
+Hamilton,1118,Green;Liberal;NDP;PC
+Hamilton,1119,Liberal;NDP;PC;Green
+Hamilton,1120,PC;Green;Liberal;NDP
+Hamilton,1121,Green;PC;NDP;Liberal
+Hamilton,1122,NDP;Green;PC;Liberal
+Hamilton,1123,NDP;PC;Green;Liberal
+Hamilton,1124,NDP;Liberal;PC;Green
+Hamilton,1125,NDP;Liberal;Green;PC
+Hamilton,1126,Liberal;PC;Green;NDP
+Hamilton,1127,PC;Liberal;NDP;Green
+Hamilton,1128,NDP;Liberal;Green;PC
+Hamilton,1129,NDP;Green;Liberal;PC
+Hamilton,1130,Liberal;Green;PC;NDP
+Hamilton,1131,NDP;Green;Liberal;PC
+Hamilton,1132,NDP;Green;Liberal;PC
+Hamilton,1133,NDP;PC;Liberal;Green
+Hamilton,1134,PC;Green;NDP;Liberal
+Hamilton,1135,NDP;Green;Liberal;PC
+Hamilton,1136,Liberal;NDP;Green;PC
+Hamilton,1137,NDP;Liberal;Green;PC
+Hamilton,1138,NDP;Liberal;PC;Green
+Hamilton,1139,PC;Liberal;Green;NDP
+Hamilton,1140,Green;Liberal;NDP;PC
+Hamilton,1141,NDP;Liberal;Green;PC
+Hamilton,1142,NDP;PC;Liberal;Green
+Hamilton,1143,NDP;Green;PC;Liberal
+Hamilton,1144,PC;Green;NDP;Liberal
+Hamilton,1145,Liberal;PC;Green;NDP
+Hamilton,1146,NDP;Green;Liberal;PC
+Hamilton,1147,PC;Liberal;Green;NDP
+Hamilton,1148,Liberal;NDP;Green;PC
+Hamilton,1149,NDP;Liberal;Green;PC
+Hamilton,1150,Liberal;PC;NDP;Green
+Hamilton,1151,NDP;Green;PC;Liberal
+Hamilton,1152,Liberal;PC;Green;NDP
+Hamilton,1153,Liberal;Green;NDP;PC
+Hamilton,1154,NDP;Green;Liberal;PC
+Hamilton,1155,NDP;PC;Liberal;Green
+Hamilton,1156,PC;NDP;Liberal;Green
+Hamilton,1157,NDP;Green;Liberal;PC
+Hamilton,1158,NDP;Green;PC;Liberal
+Hamilton,1159,NDP;Liberal;Green;PC
+Hamilton,1160,NDP;Green;Liberal;PC
+Hamilton,1161,Liberal;NDP;Green;PC
+Hamilton,1162,PC;Green;NDP;Liberal
+Hamilton,1163,Green;Liberal;PC;NDP
+Hamilton,1164,Liberal;Green;PC;NDP
+Hamilton,1165,Green;NDP;PC;Liberal
+Hamilton,1166,NDP;PC;Liberal;Green
+Hamilton,1167,Liberal;PC;Green;NDP
+Hamilton,1168,PC;Green;Liberal;NDP
+Hamilton,1169,NDP;PC;Liberal;Green
+Hamilton,1170,PC;Green;Liberal;NDP
+Hamilton,1171,NDP;Green;Liberal;PC
+Hamilton,1172,NDP;PC;Liberal;Green
+Hamilton,1173,NDP;Green;PC;Liberal
+Hamilton,1174,Green;NDP;PC;Liberal
+Hamilton,1175,Liberal;NDP;PC;Green
+Hamilton,1176,NDP;Green;PC;Liberal
+Hamilton,1177,Liberal;NDP;Green;PC
+Hamilton,1178,Liberal;Green;NDP;PC
+Hamilton,1179,PC;NDP;Green;Liberal
+Hamilton,1180,PC;Liberal;Green;NDP
+Hamilton,1181,Liberal;NDP;Green;PC
+Hamilton,1182,NDP;Green;PC;Liberal
+Hamilton,1183,PC;Liberal;NDP;Green
+Hamilton,1184,NDP;Liberal;PC;Green
+Hamilton,1185,NDP;Green;Liberal;PC
+Hamilton,1186,Liberal;NDP;Green;PC
+Hamilton,1187,NDP;Green;Liberal;PC
+Hamilton,1188,NDP;Green;PC;Liberal
+Hamilton,1189,NDP;PC;Liberal;Green
+Hamilton,1190,Liberal;Green;NDP;PC
+Hamilton,1191,Liberal;PC;NDP;Green
+Hamilton,1192,NDP;Green;PC;Liberal
+Hamilton,1193,NDP;Liberal;PC;Green
+Hamilton,1194,NDP;Liberal;Green;PC
+Hamilton,1195,NDP;Liberal;Green;PC
+Hamilton,1196,Green;NDP;PC;Liberal
+Hamilton,1197,Liberal;PC;NDP;Green
+Hamilton,1198,NDP;Green;PC;Liberal
+Hamilton,1199,NDP;Liberal;PC;Green
+Hamilton,1200,PC;Green;Liberal;NDP
+Hamilton,1201,NDP;Green;Liberal;PC
+Hamilton,1202,Liberal;PC;NDP;Green
+Hamilton,1203,Liberal;PC;Green;NDP
+Hamilton,1204,NDP;Liberal;PC;Green
+Hamilton,1205,Liberal;Green;PC;NDP
+Hamilton,1206,PC;Green;NDP;Liberal
+Hamilton,1207,NDP;Liberal;PC;Green
+Hamilton,1208,NDP;Green;PC;Liberal
+Hamilton,1209,PC;NDP;Green;Liberal
+Hamilton,1210,NDP;PC;Liberal;Green
+Hamilton,1211,NDP;Green;PC;Liberal
+Hamilton,1212,NDP;Liberal;Green;PC
+Hamilton,1213,NDP;Liberal;PC;Green
+Hamilton,1214,NDP;Liberal;PC;Green
+Hamilton,1215,NDP;Liberal;Green;PC
+Hamilton,1216,NDP;Green;Liberal;PC
+Hamilton,1217,NDP;Liberal;Green;PC
+Hamilton,1218,Liberal;PC;NDP;Green
+Hamilton,1219,NDP;PC;Liberal;Green
+Hamilton,1220,Green;NDP;Liberal;PC
+Hamilton,1221,NDP;Green;Liberal;PC
+Hamilton,1222,Liberal;Green;PC;NDP
+Hamilton,1223,PC;NDP;Liberal;Green
+Hamilton,1224,Green;NDP;PC;Liberal
+Hamilton,1225,NDP;Liberal;PC;Green
+Hamilton,1226,NDP;Green;Liberal;PC
+Hamilton,1227,PC;NDP;Liberal;Green
+Hamilton,1228,NDP;Green;PC;Liberal
+Hamilton,1229,NDP;Green;Liberal;PC
+Hamilton,1230,NDP;Liberal;PC;Green
+Hamilton,1231,NDP;Green;PC;Liberal
+Hamilton,1232,NDP;Liberal;Green;PC
+Hamilton,1233,Liberal;PC;Green;NDP
+Hamilton,1234,NDP;Liberal;PC;Green
+Hamilton,1235,NDP;PC;Liberal;Green
+Hamilton,1236,Green;Liberal;PC;NDP
+Hamilton,1237,NDP;Green;Liberal;PC
+Hamilton,1238,Liberal;PC;NDP;Green
+Hamilton,1239,Liberal;NDP;Green;PC
+Hamilton,1240,NDP;Liberal;Green;PC
+Hamilton,1241,NDP;Liberal;Green;PC
+Hamilton,1242,Liberal;NDP;PC;Green
+Hamilton,1243,PC;Liberal;Green;NDP
+Hamilton,1244,NDP;Green;Liberal;PC
+Hamilton,1245,Liberal;Green;NDP;PC
+Hamilton,1246,Liberal;NDP;Green;PC
+Hamilton,1247,NDP;PC;Green;Liberal
+Hamilton,1248,NDP;PC;Green;Liberal
+Hamilton,1249,Liberal;Green;PC;NDP
+Hamilton,1250,NDP;Liberal;PC;Green
+London,1251,Liberal;NDP;PC;Green
+London,1252,NDP;Green;Liberal;PC
+London,1253,Liberal;NDP;PC;Green
+London,1254,NDP;PC;Green;Liberal
+London,1255,PC;Green;NDP;Liberal
+London,1256,NDP;Liberal;Green;PC
+London,1257,Liberal;NDP;Green;PC
+London,1258,Green;Liberal;PC;NDP
+London,1259,PC;NDP;Green;Liberal
+London,1260,NDP;Liberal;Green;PC
+London,1261,Green;NDP;PC;Liberal
+London,1262,PC;Liberal;NDP;Green
+London,1263,Liberal;PC;NDP;Green
+London,1264,NDP;Green;Liberal;PC
+London,1265,PC;Liberal;NDP;Green
+London,1266,PC;Green;NDP;Liberal
+London,1267,Liberal;PC;Green;NDP
+London,1268,PC;Green;NDP;Liberal
+London,1269,Liberal;Green;PC;NDP
+London,1270,NDP;Green;PC;Liberal
+London,1271,NDP;Liberal;PC;Green
+London,1272,PC;Green;NDP;Liberal
+London,1273,Green;PC;Liberal;NDP
+London,1274,PC;NDP;Green;Liberal
+London,1275,Green;NDP;Liberal;PC
+London,1276,PC;Green;Liberal;NDP
+London,1277,NDP;Liberal;Green;PC
+London,1278,PC;Green;NDP;Liberal
+London,1279,Liberal;PC;Green;NDP
+London,1280,PC;Liberal;Green;NDP
+London,1281,Liberal;Green;PC;NDP
+London,1282,Liberal;NDP;Green;PC
+London,1283,PC;Green;Liberal;NDP
+London,1284,Liberal;PC;Green;NDP
+London,1285,Liberal;PC;Green;NDP
+London,1286,Green;PC;NDP;Liberal
+London,1287,Liberal;PC;NDP;Green
+London,1288,Green;NDP;PC;Liberal
+London,1289,Liberal;Green;PC;NDP
+London,1290,NDP;PC;Liberal;Green
+London,1291,Liberal;NDP;Green;PC
+London,1292,Liberal;NDP;Green;PC
+London,1293,NDP;Green;PC;Liberal
+London,1294,Liberal;PC;Green;NDP
+London,1295,Liberal;PC;Green;NDP
+London,1296,Liberal;PC;Green;NDP
+London,1297,NDP;Liberal;PC;Green
+London,1298,Green;PC;Liberal;NDP
+London,1299,PC;Liberal;Green;NDP
+London,1300,Liberal;PC;NDP;Green
+London,1301,Liberal;PC;NDP;Green
+London,1302,NDP;Green;Liberal;PC
+London,1303,PC;Green;NDP;Liberal
+London,1304,Green;NDP;Liberal;PC
+London,1305,Liberal;Green;PC;NDP
+London,1306,Liberal;PC;Green;NDP
+London,1307,PC;Liberal;Green;NDP
+London,1308,NDP;PC;Liberal;Green
+London,1309,Liberal;PC;Green;NDP
+London,1310,Liberal;NDP;Green;PC
+London,1311,Liberal;NDP;PC;Green
+London,1312,PC;Liberal;Green;NDP
+London,1313,Liberal;Green;PC;NDP
+London,1314,PC;Liberal;Green;NDP
+London,1315,PC;Liberal;NDP;Green
+London,1316,Green;PC;Liberal;NDP
+London,1317,Liberal;NDP;PC;Green
+London,1318,PC;Green;Liberal;NDP
+London,1319,NDP;Green;Liberal;PC
+London,1320,PC;Liberal;Green;NDP
+London,1321,PC;Green;NDP;Liberal
+London,1322,PC;Green;NDP;Liberal
+London,1323,NDP;PC;Green;Liberal
+London,1324,NDP;PC;Liberal;Green
+London,1325,Liberal;PC;Green;NDP
+London,1326,PC;NDP;Green;Liberal
+London,1327,Liberal;PC;Green;NDP
+London,1328,NDP;PC;Liberal;Green
+London,1329,NDP;Green;Liberal;PC
+London,1330,Liberal;NDP;PC;Green
+London,1331,PC;NDP;Liberal;Green
+London,1332,Liberal;Green;PC;NDP
+London,1333,Liberal;PC;Green;NDP
+London,1334,NDP;Liberal;Green;PC
+London,1335,PC;Liberal;Green;NDP
+London,1336,NDP;PC;Green;Liberal
+London,1337,PC;Liberal;Green;NDP
+London,1338,PC;NDP;Liberal;Green
+London,1339,PC;Green;NDP;Liberal
+London,1340,NDP;Liberal;Green;PC
+London,1341,NDP;PC;Green;Liberal
+London,1342,NDP;Liberal;PC;Green
+London,1343,NDP;Liberal;PC;Green
+London,1344,PC;Green;NDP;Liberal
+London,1345,Liberal;PC;NDP;Green
+London,1346,PC;Green;Liberal;NDP
+London,1347,PC;Green;NDP;Liberal
+London,1348,PC;Green;NDP;Liberal
+London,1349,Green;Liberal;PC;NDP
+London,1350,Liberal;Green;PC;NDP
+London,1351,PC;Liberal;NDP;Green
+London,1352,NDP;PC;Liberal;Green
+London,1353,Liberal;Green;NDP;PC
+London,1354,NDP;Liberal;Green;PC
+London,1355,NDP;Liberal;Green;PC
+London,1356,Liberal;NDP;PC;Green
+London,1357,PC;Green;NDP;Liberal
+London,1358,PC;Liberal;Green;NDP
+London,1359,Liberal;Green;PC;NDP
+London,1360,NDP;PC;Green;Liberal
+London,1361,Liberal;PC;Green;NDP
+London,1362,Liberal;PC;NDP;Green
+London,1363,Liberal;Green;NDP;PC
+London,1364,NDP;PC;Liberal;Green
+London,1365,NDP;Liberal;PC;Green
+London,1366,PC;Liberal;Green;NDP
+London,1367,NDP;Green;Liberal;PC
+London,1368,Liberal;Green;NDP;PC
+London,1369,NDP;Green;Liberal;PC
+London,1370,NDP;Green;Liberal;PC
+London,1371,Liberal;NDP;Green;PC
+London,1372,PC;Green;Liberal;NDP
+London,1373,Green;Liberal;PC;NDP
+London,1374,NDP;PC;Liberal;Green
+London,1375,Liberal;Green;PC;NDP
+London,1376,Liberal;PC;NDP;Green
+London,1377,PC;NDP;Liberal;Green
+London,1378,Liberal;NDP;Green;PC
+London,1379,PC;Liberal;Green;NDP
+London,1380,Liberal;PC;Green;NDP
+London,1381,NDP;Green;PC;Liberal
+London,1382,Green;PC;Liberal;NDP
+London,1383,NDP;PC;Liberal;Green
+London,1384,PC;NDP;Liberal;Green
+London,1385,NDP;PC;Green;Liberal
+London,1386,PC;NDP;Liberal;Green
+London,1387,Liberal;NDP;PC;Green
+London,1388,Liberal;Green;PC;NDP
+London,1389,Liberal;Green;NDP;PC
+London,1390,PC;Green;NDP;Liberal
+London,1391,Green;NDP;PC;Liberal
+London,1392,Liberal;Green;PC;NDP
+London,1393,Liberal;NDP;Green;PC
+London,1394,PC;Liberal;Green;NDP
+London,1395,Liberal;Green;PC;NDP
+London,1396,NDP;Liberal;PC;Green
+London,1397,NDP;Liberal;Green;PC
+London,1398,PC;Liberal;NDP;Green
+London,1399,Liberal;Green;PC;NDP
+London,1400,Liberal;NDP;PC;Green
+London,1401,Liberal;NDP;PC;Green
+London,1402,Liberal;NDP;Green;PC
+London,1403,PC;Green;Liberal;NDP
+London,1404,Liberal;NDP;PC;Green
+London,1405,Liberal;PC;NDP;Green
+London,1406,Liberal;NDP;Green;PC
+London,1407,Liberal;NDP;Green;PC
+London,1408,Liberal;Green;PC;NDP
+London,1409,Liberal;NDP;PC;Green
+London,1410,Liberal;PC;Green;NDP
+London,1411,PC;Liberal;Green;NDP
+London,1412,Liberal;NDP;PC;Green
+London,1413,PC;NDP;Green;Liberal
+London,1414,PC;Green;NDP;Liberal
+London,1415,PC;NDP;Liberal;Green
+London,1416,PC;Green;NDP;Liberal
+London,1417,NDP;Liberal;Green;PC
+London,1418,NDP;Green;Liberal;PC
+London,1419,NDP;PC;Liberal;Green
+London,1420,Liberal;NDP;Green;PC
+London,1421,PC;Green;Liberal;NDP
+London,1422,Liberal;PC;NDP;Green
+London,1423,NDP;Liberal;Green;PC
+London,1424,NDP;Liberal;Green;PC
+London,1425,Green;Liberal;NDP;PC
+London,1426,PC;NDP;Liberal;Green
+London,1427,PC;Liberal;NDP;Green
+London,1428,Liberal;PC;Green;NDP
+London,1429,PC;NDP;Green;Liberal
+London,1430,Liberal;Green;NDP;PC
+London,1431,PC;Liberal;Green;NDP
+London,1432,Liberal;Green;PC;NDP
+London,1433,Green;Liberal;NDP;PC
+London,1434,Green;PC;NDP;Liberal
+London,1435,NDP;PC;Green;Liberal
+London,1436,NDP;PC;Green;Liberal
+London,1437,Liberal;NDP;PC;Green
+London,1438,NDP;Liberal;Green;PC
+London,1439,Liberal;Green;NDP;PC
+London,1440,PC;Green;Liberal;NDP
+London,1441,NDP;Green;Liberal;PC
+London,1442,Liberal;PC;NDP;Green
+London,1443,NDP;Liberal;Green;PC
+London,1444,PC;NDP;Liberal;Green
+London,1445,NDP;Green;Liberal;PC
+London,1446,PC;Green;NDP;Liberal
+London,1447,PC;Green;Liberal;NDP
+London,1448,Green;NDP;PC;Liberal
+London,1449,Liberal;Green;NDP;PC
+London,1450,NDP;Green;PC;Liberal
+London,1451,PC;Green;NDP;Liberal
+London,1452,Liberal;Green;NDP;PC
+London,1453,NDP;PC;Liberal;Green
+London,1454,Green;NDP;PC;Liberal
+London,1455,NDP;Liberal;PC;Green
+London,1456,NDP;Green;Liberal;PC
+London,1457,PC;Green;Liberal;NDP
+London,1458,PC;Liberal;Green;NDP
+London,1459,Liberal;PC;Green;NDP
+London,1460,NDP;PC;Green;Liberal
+London,1461,PC;NDP;Green;Liberal
+London,1462,Liberal;NDP;Green;PC
+London,1463,PC;Liberal;Green;NDP
+London,1464,PC;NDP;Liberal;Green
+London,1465,PC;NDP;Liberal;Green
+London,1466,PC;Green;Liberal;NDP
+London,1467,NDP;Green;Liberal;PC
+London,1468,Liberal;PC;NDP;Green
+London,1469,PC;Liberal;Green;NDP
+London,1470,Liberal;Green;NDP;PC
+London,1471,PC;NDP;Green;Liberal
+London,1472,PC;Green;Liberal;NDP
+London,1473,PC;Green;NDP;Liberal
+London,1474,NDP;Green;Liberal;PC
+London,1475,PC;Liberal;NDP;Green
+London,1476,Liberal;NDP;Green;PC
+London,1477,Liberal;NDP;Green;PC
+London,1478,Green;Liberal;PC;NDP
+London,1479,Liberal;Green;PC;NDP
+London,1480,PC;Green;NDP;Liberal
+London,1481,PC;Green;NDP;Liberal
+London,1482,NDP;PC;Green;Liberal
+London,1483,Liberal;Green;PC;NDP
+London,1484,Liberal;NDP;PC;Green
+London,1485,NDP;Green;Liberal;PC
+London,1486,PC;NDP;Green;Liberal
+London,1487,Green;PC;NDP;Liberal
+London,1488,NDP;Green;PC;Liberal
+London,1489,NDP;Liberal;Green;PC
+London,1490,Liberal;PC;NDP;Green
+London,1491,Liberal;Green;NDP;PC
+London,1492,Liberal;Green;NDP;PC
+London,1493,NDP;Green;Liberal;PC
+London,1494,Liberal;PC;NDP;Green
+London,1495,Liberal;PC;NDP;Green
+London,1496,NDP;PC;Liberal;Green
+London,1497,PC;Liberal;NDP;Green
+London,1498,PC;NDP;Liberal;Green
+London,1499,Liberal;NDP;Green;PC
+London,1500,Liberal;NDP;Green;PC
+Markham,1501,PC;Liberal;NDP;Green
+Markham,1502,PC;Green;Liberal;NDP
+Markham,1503,Liberal;Green;NDP;PC
+Markham,1504,NDP;Green;Liberal;PC
+Markham,1505,NDP;Green;Liberal;PC
+Markham,1506,Liberal;PC;Green;NDP
+Markham,1507,PC;Green;NDP;Liberal
+Markham,1508,PC;NDP;Green;Liberal
+Markham,1509,PC;NDP;Liberal;Green
+Markham,1510,PC;Green;Liberal;NDP
+Markham,1511,Liberal;Green;NDP;PC
+Markham,1512,Liberal;Green;PC;NDP
+Markham,1513,Green;NDP;Liberal;PC
+Markham,1514,PC;Green;NDP;Liberal
+Markham,1515,NDP;PC;Liberal;Green
+Markham,1516,PC;NDP;Liberal;Green
+Markham,1517,PC;Green;Liberal;NDP
+Markham,1518,Green;NDP;Liberal;PC
+Markham,1519,PC;Liberal;NDP;Green
+Markham,1520,PC;Green;NDP;Liberal
+Markham,1521,NDP;Green;Liberal;PC
+Markham,1522,PC;Liberal;NDP;Green
+Markham,1523,Green;NDP;Liberal;PC
+Markham,1524,NDP;Green;PC;Liberal
+Markham,1525,PC;NDP;Liberal;Green
+Markham,1526,PC;NDP;Liberal;Green
+Markham,1527,Liberal;Green;PC;NDP
+Markham,1528,Liberal;PC;NDP;Green
+Markham,1529,NDP;Green;Liberal;PC
+Markham,1530,PC;Green;Liberal;NDP
+Markham,1531,Liberal;PC;NDP;Green
+Markham,1532,PC;NDP;Green;Liberal
+Markham,1533,Liberal;NDP;Green;PC
+Markham,1534,Liberal;NDP;PC;Green
+Markham,1535,NDP;Green;Liberal;PC
+Markham,1536,Liberal;PC;Green;NDP
+Markham,1537,Liberal;NDP;PC;Green
+Markham,1538,PC;Green;Liberal;NDP
+Markham,1539,PC;Liberal;NDP;Green
+Markham,1540,PC;Green;NDP;Liberal
+Markham,1541,Liberal;NDP;Green;PC
+Markham,1542,PC;Liberal;NDP;Green
+Markham,1543,NDP;PC;Green;Liberal
+Markham,1544,PC;Green;Liberal;NDP
+Markham,1545,NDP;PC;Liberal;Green
+Markham,1546,Liberal;PC;Green;NDP
+Markham,1547,PC;NDP;Liberal;Green
+Markham,1548,Liberal;NDP;PC;Green
+Markham,1549,NDP;Liberal;Green;PC
+Markham,1550,Liberal;Green;PC;NDP
+Markham,1551,PC;NDP;Green;Liberal
+Markham,1552,PC;Liberal;Green;NDP
+Markham,1553,Liberal;Green;NDP;PC
+Markham,1554,PC;Green;NDP;Liberal
+Markham,1555,PC;Green;NDP;Liberal
+Markham,1556,PC;NDP;Liberal;Green
+Markham,1557,PC;Green;Liberal;NDP
+Markham,1558,Liberal;Green;PC;NDP
+Markham,1559,Green;Liberal;PC;NDP
+Markham,1560,PC;Liberal;NDP;Green
+Markham,1561,PC;Liberal;NDP;Green
+Markham,1562,Liberal;NDP;PC;Green
+Markham,1563,PC;NDP;Green;Liberal
+Markham,1564,PC;Liberal;NDP;Green
+Markham,1565,NDP;PC;Green;Liberal
+Markham,1566,Green;NDP;PC;Liberal
+Markham,1567,PC;NDP;Liberal;Green
+Markham,1568,Liberal;Green;PC;NDP
+Markham,1569,PC;Liberal;Green;NDP
+Markham,1570,PC;Liberal;Green;NDP
+Markham,1571,Liberal;PC;NDP;Green
+Markham,1572,Liberal;NDP;Green;PC
+Markham,1573,PC;Green;Liberal;NDP
+Markham,1574,PC;Green;NDP;Liberal
+Markham,1575,Liberal;NDP;PC;Green
+Markham,1576,PC;Green;NDP;Liberal
+Markham,1577,PC;Liberal;Green;NDP
+Markham,1578,PC;Green;NDP;Liberal
+Markham,1579,NDP;Green;PC;Liberal
+Markham,1580,PC;Green;Liberal;NDP
+Markham,1581,PC;Liberal;NDP;Green
+Markham,1582,PC;Green;Liberal;NDP
+Markham,1583,PC;Green;NDP;Liberal
+Markham,1584,PC;Green;Liberal;NDP
+Markham,1585,Liberal;NDP;PC;Green
+Markham,1586,Green;Liberal;NDP;PC
+Markham,1587,Liberal;NDP;PC;Green
+Markham,1588,PC;Green;Liberal;NDP
+Markham,1589,Liberal;PC;Green;NDP
+Markham,1590,PC;Liberal;Green;NDP
+Markham,1591,NDP;Green;Liberal;PC
+Markham,1592,NDP;Green;PC;Liberal
+Markham,1593,PC;Green;Liberal;NDP
+Markham,1594,Liberal;NDP;Green;PC
+Markham,1595,PC;Green;Liberal;NDP
+Markham,1596,Liberal;NDP;Green;PC
+Markham,1597,PC;Green;Liberal;NDP
+Markham,1598,Liberal;NDP;Green;PC
+Markham,1599,PC;NDP;Liberal;Green
+Markham,1600,Liberal;PC;NDP;Green
+Markham,1601,Liberal;PC;Green;NDP
+Markham,1602,PC;Green;NDP;Liberal
+Markham,1603,NDP;PC;Liberal;Green
+Markham,1604,PC;Green;NDP;Liberal
+Markham,1605,PC;NDP;Green;Liberal
+Markham,1606,PC;Green;NDP;Liberal
+Markham,1607,Liberal;Green;NDP;PC
+Markham,1608,PC;Liberal;Green;NDP
+Markham,1609,PC;Green;NDP;Liberal
+Markham,1610,Liberal;NDP;Green;PC
+Markham,1611,PC;Green;Liberal;NDP
+Markham,1612,PC;Green;NDP;Liberal
+Markham,1613,Liberal;PC;NDP;Green
+Markham,1614,Liberal;Green;PC;NDP
+Markham,1615,Liberal;PC;NDP;Green
+Markham,1616,PC;NDP;Green;Liberal
+Markham,1617,PC;Liberal;NDP;Green
+Markham,1618,PC;Green;Liberal;NDP
+Markham,1619,PC;Liberal;NDP;Green
+Markham,1620,PC;NDP;Green;Liberal
+Markham,1621,Liberal;NDP;PC;Green
+Markham,1622,PC;Liberal;NDP;Green
+Markham,1623,PC;Green;Liberal;NDP
+Markham,1624,PC;NDP;Liberal;Green
+Markham,1625,Liberal;Green;NDP;PC
+Markham,1626,PC;NDP;Green;Liberal
+Markham,1627,PC;Green;NDP;Liberal
+Markham,1628,Liberal;PC;NDP;Green
+Markham,1629,Liberal;Green;NDP;PC
+Markham,1630,Liberal;PC;Green;NDP
+Markham,1631,Green;PC;NDP;Liberal
+Markham,1632,Liberal;PC;Green;NDP
+Markham,1633,PC;Liberal;Green;NDP
+Markham,1634,Liberal;Green;NDP;PC
+Markham,1635,Liberal;Green;NDP;PC
+Markham,1636,PC;Green;Liberal;NDP
+Markham,1637,NDP;PC;Green;Liberal
+Markham,1638,NDP;PC;Green;Liberal
+Markham,1639,PC;Green;Liberal;NDP
+Markham,1640,PC;Liberal;NDP;Green
+Markham,1641,PC;Liberal;Green;NDP
+Markham,1642,PC;NDP;Liberal;Green
+Markham,1643,PC;Liberal;Green;NDP
+Markham,1644,PC;Green;Liberal;NDP
+Markham,1645,Liberal;Green;NDP;PC
+Markham,1646,Liberal;PC;NDP;Green
+Markham,1647,Liberal;PC;NDP;Green
+Markham,1648,PC;Liberal;Green;NDP
+Markham,1649,PC;Green;Liberal;NDP
+Markham,1650,PC;Green;NDP;Liberal
+Markham,1651,PC;NDP;Green;Liberal
+Markham,1652,PC;Green;Liberal;NDP
+Markham,1653,Liberal;Green;PC;NDP
+Markham,1654,Liberal;NDP;Green;PC
+Markham,1655,PC;Green;Liberal;NDP
+Markham,1656,Liberal;PC;NDP;Green
+Markham,1657,PC;Liberal;Green;NDP
+Markham,1658,Liberal;PC;NDP;Green
+Markham,1659,Liberal;NDP;PC;Green
+Markham,1660,NDP;Liberal;PC;Green
+Markham,1661,PC;Liberal;Green;NDP
+Markham,1662,Liberal;Green;NDP;PC
+Markham,1663,PC;Liberal;Green;NDP
+Markham,1664,PC;Green;NDP;Liberal
+Markham,1665,PC;NDP;Liberal;Green
+Markham,1666,Liberal;Green;NDP;PC
+Markham,1667,PC;Green;Liberal;NDP
+Markham,1668,Green;NDP;PC;Liberal
+Markham,1669,PC;Liberal;NDP;Green
+Markham,1670,PC;NDP;Liberal;Green
+Markham,1671,PC;Liberal;NDP;Green
+Markham,1672,Liberal;NDP;Green;PC
+Markham,1673,NDP;Liberal;PC;Green
+Markham,1674,PC;Green;Liberal;NDP
+Markham,1675,PC;Liberal;NDP;Green
+Markham,1676,Liberal;PC;Green;NDP
+Markham,1677,PC;Liberal;NDP;Green
+Markham,1678,Green;Liberal;PC;NDP
+Markham,1679,Liberal;NDP;PC;Green
+Markham,1680,Liberal;Green;PC;NDP
+Markham,1681,PC;NDP;Liberal;Green
+Markham,1682,NDP;PC;Liberal;Green
+Markham,1683,PC;Green;Liberal;NDP
+Markham,1684,PC;NDP;Liberal;Green
+Markham,1685,Liberal;PC;NDP;Green
+Markham,1686,Liberal;PC;NDP;Green
+Markham,1687,Green;NDP;Liberal;PC
+Markham,1688,PC;Green;Liberal;NDP
+Markham,1689,PC;NDP;Green;Liberal
+Markham,1690,Liberal;PC;NDP;Green
+Markham,1691,Green;Liberal;PC;NDP
+Markham,1692,PC;NDP;Liberal;Green
+Markham,1693,Liberal;Green;NDP;PC
+Markham,1694,Green;Liberal;NDP;PC
+Markham,1695,Liberal;NDP;PC;Green
+Markham,1696,PC;Green;Liberal;NDP
+Markham,1697,PC;Liberal;NDP;Green
+Markham,1698,Liberal;NDP;Green;PC
+Markham,1699,NDP;Green;Liberal;PC
+Markham,1700,Liberal;Green;PC;NDP
+Markham,1701,PC;NDP;Green;Liberal
+Markham,1702,PC;NDP;Green;Liberal
+Markham,1703,PC;Green;NDP;Liberal
+Markham,1704,NDP;Green;PC;Liberal
+Markham,1705,PC;Liberal;Green;NDP
+Markham,1706,Liberal;NDP;Green;PC
+Markham,1707,Liberal;Green;PC;NDP
+Markham,1708,NDP;Green;PC;Liberal
+Markham,1709,NDP;Green;PC;Liberal
+Markham,1710,PC;Liberal;NDP;Green
+Markham,1711,PC;Liberal;Green;NDP
+Markham,1712,PC;Green;NDP;Liberal
+Markham,1713,Liberal;PC;Green;NDP
+Markham,1714,PC;NDP;Liberal;Green
+Markham,1715,Liberal;NDP;PC;Green
+Markham,1716,NDP;PC;Green;Liberal
+Markham,1717,PC;Liberal;NDP;Green
+Markham,1718,Liberal;PC;Green;NDP
+Markham,1719,Liberal;PC;Green;NDP
+Markham,1720,NDP;PC;Liberal;Green
+Markham,1721,PC;Green;NDP;Liberal
+Markham,1722,PC;NDP;Green;Liberal
+Markham,1723,NDP;Liberal;PC;Green
+Markham,1724,PC;Liberal;NDP;Green
+Markham,1725,Liberal;NDP;PC;Green
+Markham,1726,Liberal;NDP;Green;PC
+Markham,1727,PC;Liberal;Green;NDP
+Markham,1728,NDP;Green;Liberal;PC
+Markham,1729,Liberal;PC;Green;NDP
+Markham,1730,PC;Green;Liberal;NDP
+Markham,1731,Liberal;Green;PC;NDP
+Markham,1732,Green;PC;NDP;Liberal
+Markham,1733,NDP;Green;PC;Liberal
+Markham,1734,NDP;Green;Liberal;PC
+Markham,1735,PC;Liberal;NDP;Green
+Markham,1736,PC;NDP;Liberal;Green
+Markham,1737,Liberal;PC;Green;NDP
+Markham,1738,PC;Green;Liberal;NDP
+Markham,1739,Liberal;NDP;Green;PC
+Markham,1740,PC;Green;Liberal;NDP
+Markham,1741,NDP;PC;Green;Liberal
+Markham,1742,Liberal;PC;NDP;Green
+Markham,1743,PC;Green;Liberal;NDP
+Markham,1744,PC;NDP;Green;Liberal
+Markham,1745,PC;NDP;Green;Liberal
+Markham,1746,PC;Green;NDP;Liberal
+Markham,1747,Liberal;PC;NDP;Green
+Markham,1748,PC;Liberal;NDP;Green
+Markham,1749,PC;Green;NDP;Liberal
+Markham,1750,Liberal;PC;NDP;Green
+Waterloo,1751,NDP;Green;PC;Liberal
+Waterloo,1752,Liberal;NDP;Green;PC
+Waterloo,1753,NDP;PC;Green;Liberal
+Waterloo,1754,Liberal;Green;NDP;PC
+Waterloo,1755,Liberal;NDP;Green;PC
+Waterloo,1756,PC;NDP;Green;Liberal
+Waterloo,1757,PC;Green;Liberal;NDP
+Waterloo,1758,NDP;Liberal;Green;PC
+Waterloo,1759,Liberal;NDP;Green;PC
+Waterloo,1760,Liberal;NDP;PC;Green
+Waterloo,1761,PC;Green;Liberal;NDP
+Waterloo,1762,Liberal;PC;NDP;Green
+Waterloo,1763,NDP;Green;Liberal;PC
+Waterloo,1764,NDP;Liberal;Green;PC
+Waterloo,1765,Green;NDP;Liberal;PC
+Waterloo,1766,Liberal;Green;NDP;PC
+Waterloo,1767,NDP;PC;Green;Liberal
+Waterloo,1768,Green;NDP;PC;Liberal
+Waterloo,1769,PC;NDP;Green;Liberal
+Waterloo,1770,NDP;Green;PC;Liberal
+Waterloo,1771,PC;NDP;Green;Liberal
+Waterloo,1772,PC;NDP;Liberal;Green
+Waterloo,1773,Liberal;PC;Green;NDP
+Waterloo,1774,Liberal;PC;Green;NDP
+Waterloo,1775,Green;PC;NDP;Liberal
+Waterloo,1776,PC;Liberal;Green;NDP
+Waterloo,1777,PC;NDP;Liberal;Green
+Waterloo,1778,Green;PC;Liberal;NDP
+Waterloo,1779,NDP;PC;Green;Liberal
+Waterloo,1780,NDP;PC;Green;Liberal
+Waterloo,1781,Liberal;NDP;PC;Green
+Waterloo,1782,Liberal;NDP;PC;Green
+Waterloo,1783,Liberal;PC;Green;NDP
+Waterloo,1784,Liberal;PC;Green;NDP
+Waterloo,1785,Green;Liberal;PC;NDP
+Waterloo,1786,Liberal;PC;NDP;Green
+Waterloo,1787,NDP;PC;Liberal;Green
+Waterloo,1788,PC;NDP;Green;Liberal
+Waterloo,1789,Green;PC;Liberal;NDP
+Waterloo,1790,NDP;Green;PC;Liberal
+Waterloo,1791,NDP;Green;Liberal;PC
+Waterloo,1792,NDP;Green;PC;Liberal
+Waterloo,1793,Liberal;PC;NDP;Green
+Waterloo,1794,PC;Liberal;Green;NDP
+Waterloo,1795,NDP;Green;PC;Liberal
+Waterloo,1796,Liberal;NDP;Green;PC
+Waterloo,1797,Liberal;Green;NDP;PC
+Waterloo,1798,Liberal;NDP;PC;Green
+Waterloo,1799,Liberal;NDP;PC;Green
+Waterloo,1800,NDP;Green;PC;Liberal
+Waterloo,1801,PC;Green;Liberal;NDP
+Waterloo,1802,NDP;Liberal;Green;PC
+Waterloo,1803,PC;Liberal;Green;NDP
+Waterloo,1804,NDP;Liberal;PC;Green
+Waterloo,1805,NDP;Liberal;Green;PC
+Waterloo,1806,NDP;PC;Green;Liberal
+Waterloo,1807,PC;Green;Liberal;NDP
+Waterloo,1808,PC;Liberal;Green;NDP
+Waterloo,1809,Liberal;Green;NDP;PC
+Waterloo,1810,PC;Green;Liberal;NDP
+Waterloo,1811,PC;Green;NDP;Liberal
+Waterloo,1812,Liberal;Green;PC;NDP
+Waterloo,1813,NDP;Green;Liberal;PC
+Waterloo,1814,NDP;PC;Green;Liberal
+Waterloo,1815,PC;Green;NDP;Liberal
+Waterloo,1816,NDP;PC;Green;Liberal
+Waterloo,1817,Green;PC;Liberal;NDP
+Waterloo,1818,Liberal;PC;Green;NDP
+Waterloo,1819,NDP;Green;PC;Liberal
+Waterloo,1820,Liberal;NDP;Green;PC
+Waterloo,1821,NDP;Green;PC;Liberal
+Waterloo,1822,Liberal;NDP;PC;Green
+Waterloo,1823,Liberal;NDP;Green;PC
+Waterloo,1824,NDP;PC;Green;Liberal
+Waterloo,1825,PC;Green;Liberal;NDP
+Waterloo,1826,PC;Green;NDP;Liberal
+Waterloo,1827,Liberal;NDP;PC;Green
+Waterloo,1828,NDP;Green;Liberal;PC
+Waterloo,1829,Liberal;PC;Green;NDP
+Waterloo,1830,PC;Green;NDP;Liberal
+Waterloo,1831,NDP;Green;Liberal;PC
+Waterloo,1832,PC;Green;Liberal;NDP
+Waterloo,1833,PC;Green;Liberal;NDP
+Waterloo,1834,Liberal;NDP;PC;Green
+Waterloo,1835,PC;Liberal;Green;NDP
+Waterloo,1836,NDP;PC;Liberal;Green
+Waterloo,1837,NDP;PC;Green;Liberal
+Waterloo,1838,Liberal;PC;Green;NDP
+Waterloo,1839,NDP;Green;PC;Liberal
+Waterloo,1840,Liberal;Green;NDP;PC
+Waterloo,1841,Liberal;NDP;PC;Green
+Waterloo,1842,PC;NDP;Liberal;Green
+Waterloo,1843,Liberal;NDP;PC;Green
+Waterloo,1844,Liberal;NDP;Green;PC
+Waterloo,1845,Green;Liberal;NDP;PC
+Waterloo,1846,NDP;PC;Liberal;Green
+Waterloo,1847,PC;Liberal;Green;NDP
+Waterloo,1848,Liberal;PC;NDP;Green
+Waterloo,1849,NDP;PC;Green;Liberal
+Waterloo,1850,PC;Liberal;NDP;Green
+Waterloo,1851,PC;Green;NDP;Liberal
+Waterloo,1852,NDP;Liberal;Green;PC
+Waterloo,1853,PC;NDP;Green;Liberal
+Waterloo,1854,NDP;PC;Green;Liberal
+Waterloo,1855,NDP;Liberal;PC;Green
+Waterloo,1856,NDP;PC;Green;Liberal
+Waterloo,1857,Liberal;PC;NDP;Green
+Waterloo,1858,Green;NDP;PC;Liberal
+Waterloo,1859,PC;Liberal;NDP;Green
+Waterloo,1860,Liberal;PC;NDP;Green
+Waterloo,1861,PC;Green;NDP;Liberal
+Waterloo,1862,NDP;PC;Green;Liberal
+Waterloo,1863,Liberal;NDP;PC;Green
+Waterloo,1864,PC;NDP;Green;Liberal
+Waterloo,1865,PC;NDP;Green;Liberal
+Waterloo,1866,Green;NDP;PC;Liberal
+Waterloo,1867,Liberal;NDP;PC;Green
+Waterloo,1868,Liberal;Green;NDP;PC
+Waterloo,1869,Liberal;NDP;PC;Green
+Waterloo,1870,Liberal;NDP;Green;PC
+Waterloo,1871,PC;NDP;Liberal;Green
+Waterloo,1872,PC;NDP;Green;Liberal
+Waterloo,1873,NDP;PC;Liberal;Green
+Waterloo,1874,PC;Liberal;NDP;Green
+Waterloo,1875,PC;NDP;Liberal;Green
+Waterloo,1876,Green;Liberal;NDP;PC
+Waterloo,1877,Green;PC;Liberal;NDP
+Waterloo,1878,Liberal;NDP;PC;Green
+Waterloo,1879,NDP;PC;Green;Liberal
+Waterloo,1880,Liberal;PC;NDP;Green
+Waterloo,1881,Liberal;Green;NDP;PC
+Waterloo,1882,PC;NDP;Liberal;Green
+Waterloo,1883,PC;NDP;Liberal;Green
+Waterloo,1884,Liberal;NDP;Green;PC
+Waterloo,1885,Green;PC;Liberal;NDP
+Waterloo,1886,Liberal;NDP;PC;Green
+Waterloo,1887,Liberal;PC;NDP;Green
+Waterloo,1888,Liberal;NDP;PC;Green
+Waterloo,1889,Liberal;Green;PC;NDP
+Waterloo,1890,PC;Liberal;Green;NDP
+Waterloo,1891,PC;Green;NDP;Liberal
+Waterloo,1892,PC;Green;NDP;Liberal
+Waterloo,1893,Green;Liberal;PC;NDP
+Waterloo,1894,PC;NDP;Green;Liberal
+Waterloo,1895,Liberal;PC;NDP;Green
+Waterloo,1896,Liberal;NDP;Green;PC
+Waterloo,1897,NDP;PC;Green;Liberal
+Waterloo,1898,PC;NDP;Liberal;Green
+Waterloo,1899,PC;Liberal;NDP;Green
+Waterloo,1900,NDP;Green;Liberal;PC
+Waterloo,1901,NDP;Green;Liberal;PC
+Waterloo,1902,NDP;Green;Liberal;PC
+Waterloo,1903,Liberal;Green;NDP;PC
+Waterloo,1904,PC;Green;NDP;Liberal
+Waterloo,1905,PC;Green;NDP;Liberal
+Waterloo,1906,Liberal;Green;NDP;PC
+Waterloo,1907,PC;Green;Liberal;NDP
+Waterloo,1908,Liberal;PC;Green;NDP
+Waterloo,1909,Liberal;NDP;PC;Green
+Waterloo,1910,NDP;PC;Liberal;Green
+Waterloo,1911,PC;Liberal;Green;NDP
+Waterloo,1912,Green;PC;Liberal;NDP
+Waterloo,1913,NDP;PC;Green;Liberal
+Waterloo,1914,Liberal;PC;Green;NDP
+Waterloo,1915,Green;Liberal;PC;NDP
+Waterloo,1916,NDP;Green;Liberal;PC
+Waterloo,1917,Green;Liberal;NDP;PC
+Waterloo,1918,NDP;Green;PC;Liberal
+Waterloo,1919,PC;NDP;Green;Liberal
+Waterloo,1920,Liberal;PC;Green;NDP
+Waterloo,1921,NDP;Liberal;Green;PC
+Waterloo,1922,Liberal;NDP;PC;Green
+Waterloo,1923,NDP;Green;PC;Liberal
+Waterloo,1924,NDP;Liberal;Green;PC
+Waterloo,1925,Green;NDP;Liberal;PC
+Waterloo,1926,Liberal;PC;Green;NDP
+Waterloo,1927,Liberal;Green;PC;NDP
+Waterloo,1928,NDP;Liberal;Green;PC
+Waterloo,1929,NDP;Green;PC;Liberal
+Waterloo,1930,Green;NDP;PC;Liberal
+Waterloo,1931,NDP;PC;Liberal;Green
+Waterloo,1932,Liberal;Green;PC;NDP
+Waterloo,1933,NDP;Green;PC;Liberal
+Waterloo,1934,PC;Green;NDP;Liberal
+Waterloo,1935,Liberal;NDP;Green;PC
+Waterloo,1936,Green;Liberal;NDP;PC
+Waterloo,1937,Liberal;PC;NDP;Green
+Waterloo,1938,NDP;Liberal;Green;PC
+Waterloo,1939,Green;NDP;PC;Liberal
+Waterloo,1940,Liberal;PC;NDP;Green
+Waterloo,1941,PC;Green;NDP;Liberal
+Waterloo,1942,NDP;Liberal;Green;PC
+Waterloo,1943,Liberal;Green;PC;NDP
+Waterloo,1944,Liberal;NDP;Green;PC
+Waterloo,1945,Liberal;NDP;Green;PC
+Waterloo,1946,NDP;PC;Liberal;Green
+Waterloo,1947,Liberal;Green;NDP;PC
+Waterloo,1948,Green;Liberal;PC;NDP
+Waterloo,1949,Liberal;Green;NDP;PC
+Waterloo,1950,NDP;Liberal;Green;PC
+Waterloo,1951,Liberal;Green;PC;NDP
+Waterloo,1952,Liberal;PC;Green;NDP
+Waterloo,1953,Liberal;Green;NDP;PC
+Waterloo,1954,Liberal;NDP;Green;PC
+Waterloo,1955,NDP;PC;Green;Liberal
+Waterloo,1956,Liberal;NDP;Green;PC
+Waterloo,1957,PC;Green;Liberal;NDP
+Waterloo,1958,Liberal;NDP;Green;PC
+Waterloo,1959,PC;NDP;Green;Liberal
+Waterloo,1960,NDP;Liberal;PC;Green
+Waterloo,1961,Liberal;Green;PC;NDP
+Waterloo,1962,NDP;PC;Green;Liberal
+Waterloo,1963,PC;Liberal;Green;NDP
+Waterloo,1964,Liberal;NDP;PC;Green
+Waterloo,1965,Liberal;NDP;PC;Green
+Waterloo,1966,Liberal;PC;Green;NDP
+Waterloo,1967,NDP;PC;Green;Liberal
+Waterloo,1968,NDP;PC;Green;Liberal
+Waterloo,1969,NDP;Green;PC;Liberal
+Waterloo,1970,PC;NDP;Green;Liberal
+Waterloo,1971,NDP;Green;PC;Liberal
+Waterloo,1972,Liberal;NDP;PC;Green
+Waterloo,1973,NDP;Green;Liberal;PC
+Waterloo,1974,Liberal;NDP;Green;PC
+Waterloo,1975,PC;Liberal;Green;NDP
+Waterloo,1976,Liberal;PC;NDP;Green
+Waterloo,1977,NDP;Green;Liberal;PC
+Waterloo,1978,Liberal;NDP;Green;PC
+Waterloo,1979,Liberal;PC;Green;NDP
+Waterloo,1980,NDP;Liberal;Green;PC
+Waterloo,1981,Liberal;PC;NDP;Green
+Waterloo,1982,NDP;Green;Liberal;PC
+Waterloo,1983,Green;NDP;Liberal;PC
+Waterloo,1984,Green;NDP;PC;Liberal
+Waterloo,1985,NDP;PC;Liberal;Green
+Waterloo,1986,Liberal;Green;NDP;PC
+Waterloo,1987,Liberal;NDP;Green;PC
+Waterloo,1988,NDP;Liberal;Green;PC
+Waterloo,1989,Green;PC;Liberal;NDP
+Waterloo,1990,NDP;PC;Liberal;Green
+Waterloo,1991,NDP;PC;Liberal;Green
+Waterloo,1992,NDP;PC;Green;Liberal
+Waterloo,1993,NDP;Liberal;Green;PC
+Waterloo,1994,NDP;PC;Green;Liberal
+Waterloo,1995,Green;PC;Liberal;NDP
+Waterloo,1996,Liberal;NDP;PC;Green
+Waterloo,1997,Liberal;PC;NDP;Green
+Waterloo,1998,Liberal;NDP;Green;PC
+Waterloo,1999,Green;Liberal;PC;NDP
+Waterloo,2000,Liberal;Green;PC;NDP
+Scarborough,2001,PC;Liberal;Green;NDP
+Scarborough,2002,PC;Green;Liberal;NDP
+Scarborough,2003,Green;Liberal;NDP;PC
+Scarborough,2004,Liberal;Green;PC;NDP
+Scarborough,2005,NDP;PC;Liberal;Green
+Scarborough,2006,PC;Green;NDP;Liberal
+Scarborough,2007,NDP;Liberal;PC;Green
+Scarborough,2008,Liberal;Green;NDP;PC
+Scarborough,2009,Liberal;Green;NDP;PC
+Scarborough,2010,PC;Green;Liberal;NDP
+Scarborough,2011,Liberal;PC;NDP;Green
+Scarborough,2012,Liberal;PC;Green;NDP
+Scarborough,2013,Liberal;NDP;Green;PC
+Scarborough,2014,Liberal;Green;PC;NDP
+Scarborough,2015,Liberal;NDP;PC;Green
+Scarborough,2016,NDP;Liberal;PC;Green
+Scarborough,2017,PC;NDP;Liberal;Green
+Scarborough,2018,Liberal;NDP;PC;Green
+Scarborough,2019,PC;NDP;Liberal;Green
+Scarborough,2020,PC;NDP;Green;Liberal
+Scarborough,2021,Liberal;Green;PC;NDP
+Scarborough,2022,Liberal;PC;Green;NDP
+Scarborough,2023,NDP;PC;Liberal;Green
+Scarborough,2024,Liberal;Green;NDP;PC
+Scarborough,2025,NDP;PC;Liberal;Green
+Scarborough,2026,Liberal;PC;NDP;Green
+Scarborough,2027,PC;Liberal;Green;NDP
+Scarborough,2028,PC;Liberal;Green;NDP
+Scarborough,2029,Liberal;NDP;Green;PC
+Scarborough,2030,Liberal;Green;PC;NDP
+Scarborough,2031,Liberal;Green;PC;NDP
+Scarborough,2032,Liberal;NDP;Green;PC
+Scarborough,2033,Liberal;Green;NDP;PC
+Scarborough,2034,NDP;Liberal;Green;PC
+Scarborough,2035,PC;Green;NDP;Liberal
+Scarborough,2036,NDP;Green;PC;Liberal
+Scarborough,2037,PC;NDP;Liberal;Green
+Scarborough,2038,PC;Liberal;NDP;Green
+Scarborough,2039,NDP;Liberal;Green;PC
+Scarborough,2040,PC;Liberal;Green;NDP
+Scarborough,2041,Green;Liberal;PC;NDP
+Scarborough,2042,NDP;Green;PC;Liberal
+Scarborough,2043,Liberal;Green;NDP;PC
+Scarborough,2044,Liberal;Green;PC;NDP
+Scarborough,2045,PC;Liberal;NDP;Green
+Scarborough,2046,Liberal;NDP;Green;PC
+Scarborough,2047,Liberal;Green;NDP;PC
+Scarborough,2048,Liberal;NDP;PC;Green
+Scarborough,2049,Liberal;Green;PC;NDP
+Scarborough,2050,Green;PC;NDP;Liberal
+Scarborough,2051,NDP;Green;PC;Liberal
+Scarborough,2052,PC;Green;Liberal;NDP
+Scarborough,2053,Liberal;Green;NDP;PC
+Scarborough,2054,Liberal;Green;PC;NDP
+Scarborough,2055,Liberal;PC;Green;NDP
+Scarborough,2056,Liberal;Green;NDP;PC
+Scarborough,2057,Liberal;PC;NDP;Green
+Scarborough,2058,Liberal;NDP;PC;Green
+Scarborough,2059,PC;Green;Liberal;NDP
+Scarborough,2060,PC;Liberal;NDP;Green
+Scarborough,2061,PC;NDP;Green;Liberal
+Scarborough,2062,Liberal;NDP;Green;PC
+Scarborough,2063,Liberal;PC;Green;NDP
+Scarborough,2064,PC;Liberal;Green;NDP
+Scarborough,2065,Liberal;NDP;PC;Green
+Scarborough,2066,PC;NDP;Liberal;Green
+Scarborough,2067,PC;Liberal;Green;NDP
+Scarborough,2068,PC;Liberal;Green;NDP
+Scarborough,2069,Liberal;Green;NDP;PC
+Scarborough,2070,Green;NDP;Liberal;PC
+Scarborough,2071,Liberal;NDP;Green;PC
+Scarborough,2072,NDP;Liberal;Green;PC
+Scarborough,2073,NDP;Liberal;Green;PC
+Scarborough,2074,PC;Liberal;Green;NDP
+Scarborough,2075,Liberal;Green;NDP;PC
+Scarborough,2076,Liberal;NDP;Green;PC
+Scarborough,2077,PC;NDP;Liberal;Green
+Scarborough,2078,Liberal;PC;NDP;Green
+Scarborough,2079,NDP;PC;Liberal;Green
+Scarborough,2080,Liberal;PC;Green;NDP
+Scarborough,2081,Liberal;PC;Green;NDP
+Scarborough,2082,PC;Liberal;NDP;Green
+Scarborough,2083,NDP;Green;PC;Liberal
+Scarborough,2084,Liberal;Green;NDP;PC
+Scarborough,2085,PC;NDP;Green;Liberal
+Scarborough,2086,PC;Green;Liberal;NDP
+Scarborough,2087,Liberal;NDP;Green;PC
+Scarborough,2088,Liberal;PC;NDP;Green
+Scarborough,2089,NDP;Liberal;Green;PC
+Scarborough,2090,PC;Liberal;Green;NDP
+Scarborough,2091,Liberal;PC;NDP;Green
+Scarborough,2092,PC;Green;NDP;Liberal
+Scarborough,2093,PC;NDP;Green;Liberal
+Scarborough,2094,Liberal;Green;NDP;PC
+Scarborough,2095,Liberal;PC;NDP;Green
+Scarborough,2096,Liberal;NDP;Green;PC
+Scarborough,2097,PC;NDP;Green;Liberal
+Scarborough,2098,Green;Liberal;PC;NDP
+Scarborough,2099,NDP;Green;Liberal;PC
+Scarborough,2100,Green;NDP;PC;Liberal
+Scarborough,2101,Liberal;PC;NDP;Green
+Scarborough,2102,NDP;PC;Green;Liberal
+Scarborough,2103,Liberal;Green;NDP;PC
+Scarborough,2104,Liberal;Green;PC;NDP
+Scarborough,2105,PC;Green;Liberal;NDP
+Scarborough,2106,Liberal;NDP;Green;PC
+Scarborough,2107,PC;Liberal;Green;NDP
+Scarborough,2108,Liberal;Green;PC;NDP
+Scarborough,2109,Liberal;Green;PC;NDP
+Scarborough,2110,Liberal;PC;Green;NDP
+Scarborough,2111,Liberal;NDP;Green;PC
+Scarborough,2112,PC;Liberal;Green;NDP
+Scarborough,2113,Liberal;PC;Green;NDP
+Scarborough,2114,PC;NDP;Liberal;Green
+Scarborough,2115,PC;NDP;Liberal;Green
+Scarborough,2116,Liberal;NDP;Green;PC
+Scarborough,2117,PC;Liberal;Green;NDP
+Scarborough,2118,Liberal;PC;NDP;Green
+Scarborough,2119,NDP;Liberal;PC;Green
+Scarborough,2120,Liberal;NDP;Green;PC
+Scarborough,2121,Liberal;NDP;Green;PC
+Scarborough,2122,Liberal;NDP;Green;PC
+Scarborough,2123,Liberal;Green;NDP;PC
+Scarborough,2124,PC;NDP;Liberal;Green
+Scarborough,2125,PC;Liberal;Green;NDP
+Scarborough,2126,NDP;Liberal;PC;Green
+Scarborough,2127,Green;NDP;PC;Liberal
+Scarborough,2128,Liberal;PC;NDP;Green
+Scarborough,2129,Green;PC;Liberal;NDP
+Scarborough,2130,PC;Green;NDP;Liberal
+Scarborough,2131,Liberal;PC;Green;NDP
+Scarborough,2132,Liberal;Green;PC;NDP
+Scarborough,2133,Liberal;Green;NDP;PC
+Scarborough,2134,Liberal;PC;Green;NDP
+Scarborough,2135,Liberal;NDP;PC;Green
+Scarborough,2136,PC;Liberal;NDP;Green
+Scarborough,2137,Liberal;PC;NDP;Green
+Scarborough,2138,Green;Liberal;NDP;PC
+Scarborough,2139,Liberal;NDP;Green;PC
+Scarborough,2140,PC;Liberal;Green;NDP
+Scarborough,2141,PC;NDP;Green;Liberal
+Scarborough,2142,PC;NDP;Green;Liberal
+Scarborough,2143,Liberal;NDP;Green;PC
+Scarborough,2144,Liberal;NDP;PC;Green
+Scarborough,2145,Liberal;PC;NDP;Green
+Scarborough,2146,NDP;Green;Liberal;PC
+Scarborough,2147,PC;Liberal;Green;NDP
+Scarborough,2148,Green;Liberal;NDP;PC
+Scarborough,2149,Liberal;NDP;Green;PC
+Scarborough,2150,Liberal;PC;Green;NDP
+Scarborough,2151,NDP;Liberal;Green;PC
+Scarborough,2152,NDP;Green;Liberal;PC
+Scarborough,2153,NDP;Liberal;Green;PC
+Scarborough,2154,PC;NDP;Liberal;Green
+Scarborough,2155,PC;Liberal;NDP;Green
+Scarborough,2156,Liberal;Green;NDP;PC
+Scarborough,2157,PC;Liberal;NDP;Green
+Scarborough,2158,NDP;PC;Liberal;Green
+Scarborough,2159,Liberal;NDP;Green;PC
+Scarborough,2160,NDP;Green;Liberal;PC
+Scarborough,2161,Liberal;PC;Green;NDP
+Scarborough,2162,Green;Liberal;NDP;PC
+Scarborough,2163,PC;NDP;Green;Liberal
+Scarborough,2164,PC;Liberal;NDP;Green
+Scarborough,2165,Liberal;NDP;Green;PC
+Scarborough,2166,Liberal;PC;Green;NDP
+Scarborough,2167,Liberal;PC;Green;NDP
+Scarborough,2168,Liberal;Green;PC;NDP
+Scarborough,2169,NDP;Liberal;Green;PC
+Scarborough,2170,Liberal;PC;NDP;Green
+Scarborough,2171,PC;Liberal;Green;NDP
+Scarborough,2172,NDP;PC;Green;Liberal
+Scarborough,2173,Liberal;Green;PC;NDP
+Scarborough,2174,Liberal;Green;PC;NDP
+Scarborough,2175,PC;Liberal;Green;NDP
+Scarborough,2176,Green;PC;NDP;Liberal
+Scarborough,2177,NDP;Liberal;Green;PC
+Scarborough,2178,Liberal;Green;NDP;PC
+Scarborough,2179,Liberal;PC;Green;NDP
+Scarborough,2180,Liberal;NDP;Green;PC
+Scarborough,2181,NDP;PC;Green;Liberal
+Scarborough,2182,NDP;Liberal;PC;Green
+Scarborough,2183,Liberal;NDP;PC;Green
+Scarborough,2184,Green;NDP;PC;Liberal
+Scarborough,2185,Liberal;Green;NDP;PC
+Scarborough,2186,Liberal;PC;NDP;Green
+Scarborough,2187,PC;Green;Liberal;NDP
+Scarborough,2188,PC;NDP;Liberal;Green
+Scarborough,2189,Liberal;NDP;Green;PC
+Scarborough,2190,PC;NDP;Green;Liberal
+Scarborough,2191,PC;Liberal;NDP;Green
+Scarborough,2192,Liberal;Green;NDP;PC
+Scarborough,2193,Liberal;NDP;Green;PC
+Scarborough,2194,Liberal;Green;PC;NDP
+Scarborough,2195,Liberal;NDP;PC;Green
+Scarborough,2196,Liberal;NDP;Green;PC
+Scarborough,2197,PC;NDP;Green;Liberal
+Scarborough,2198,NDP;Liberal;PC;Green
+Scarborough,2199,Liberal;Green;NDP;PC
+Scarborough,2200,Liberal;Green;PC;NDP
+Scarborough,2201,Liberal;NDP;PC;Green
+Scarborough,2202,Liberal;Green;NDP;PC
+Scarborough,2203,PC;Green;NDP;Liberal
+Scarborough,2204,Green;NDP;PC;Liberal
+Scarborough,2205,PC;Green;Liberal;NDP
+Scarborough,2206,Liberal;Green;PC;NDP
+Scarborough,2207,Liberal;Green;PC;NDP
+Scarborough,2208,PC;NDP;Green;Liberal
+Scarborough,2209,Liberal;Green;NDP;PC
+Scarborough,2210,Liberal;Green;NDP;PC
+Scarborough,2211,Liberal;PC;Green;NDP
+Scarborough,2212,Liberal;Green;NDP;PC
+Scarborough,2213,PC;NDP;Green;Liberal
+Scarborough,2214,PC;NDP;Green;Liberal
+Scarborough,2215,Liberal;NDP;Green;PC
+Scarborough,2216,NDP;Liberal;PC;Green
+Scarborough,2217,PC;Liberal;Green;NDP
+Scarborough,2218,Liberal;Green;NDP;PC
+Scarborough,2219,PC;Liberal;Green;NDP
+Scarborough,2220,PC;Green;NDP;Liberal
+Scarborough,2221,NDP;Green;PC;Liberal
+Scarborough,2222,NDP;Green;PC;Liberal
+Scarborough,2223,NDP;PC;Green;Liberal
+Scarborough,2224,Liberal;PC;NDP;Green
+Scarborough,2225,PC;Liberal;Green;NDP
+Scarborough,2226,Green;Liberal;NDP;PC
+Scarborough,2227,PC;NDP;Liberal;Green
+Scarborough,2228,PC;NDP;Liberal;Green
+Scarborough,2229,PC;Liberal;NDP;Green
+Scarborough,2230,Liberal;Green;PC;NDP
+Scarborough,2231,PC;Green;Liberal;NDP
+Scarborough,2232,PC;Liberal;NDP;Green
+Scarborough,2233,Liberal;Green;NDP;PC
+Scarborough,2234,Liberal;NDP;PC;Green
+Scarborough,2235,Liberal;Green;NDP;PC
+Scarborough,2236,Liberal;Green;NDP;PC
+Scarborough,2237,Liberal;Green;PC;NDP
+Scarborough,2238,Liberal;Green;PC;NDP
+Scarborough,2239,Liberal;NDP;PC;Green
+Scarborough,2240,Liberal;NDP;Green;PC
+Scarborough,2241,Liberal;Green;NDP;PC
+Scarborough,2242,PC;Green;NDP;Liberal
+Scarborough,2243,Liberal;NDP;PC;Green
+Scarborough,2244,PC;Green;Liberal;NDP
+Scarborough,2245,PC;NDP;Liberal;Green
+Scarborough,2246,Liberal;NDP;PC;Green
+Scarborough,2247,PC;NDP;Green;Liberal
+Scarborough,2248,PC;Liberal;NDP;Green
+Scarborough,2249,PC;NDP;Liberal;Green
+Scarborough,2250,NDP;Green;PC;Liberal
+Vaughan,2251,Liberal;NDP;PC;Green
+Vaughan,2252,Liberal;Green;NDP;PC
+Vaughan,2253,PC;Green;Liberal;NDP
+Vaughan,2254,Liberal;NDP;PC;Green
+Vaughan,2255,Green;Liberal;PC;NDP
+Vaughan,2256,NDP;PC;Green;Liberal
+Vaughan,2257,Liberal;Green;PC;NDP
+Vaughan,2258,Liberal;Green;NDP;PC
+Vaughan,2259,PC;Green;NDP;Liberal
+Vaughan,2260,PC;NDP;Liberal;Green
+Vaughan,2261,Green;Liberal;NDP;PC
+Vaughan,2262,Liberal;NDP;Green;PC
+Vaughan,2263,NDP;PC;Liberal;Green
+Vaughan,2264,Liberal;NDP;PC;Green
+Vaughan,2265,Liberal;NDP;Green;PC
+Vaughan,2266,Green;NDP;PC;Liberal
+Vaughan,2267,Green;PC;NDP;Liberal
+Vaughan,2268,Green;NDP;PC;Liberal
+Vaughan,2269,Green;PC;NDP;Liberal
+Vaughan,2270,NDP;Liberal;Green;PC
+Vaughan,2271,PC;NDP;Green;Liberal
+Vaughan,2272,Liberal;Green;NDP;PC
+Vaughan,2273,Liberal;Green;PC;NDP
+Vaughan,2274,Liberal;Green;NDP;PC
+Vaughan,2275,NDP;Green;PC;Liberal
+Vaughan,2276,Green;Liberal;NDP;PC
+Vaughan,2277,Liberal;PC;Green;NDP
+Vaughan,2278,NDP;PC;Liberal;Green
+Vaughan,2279,Green;Liberal;NDP;PC
+Vaughan,2280,Liberal;NDP;PC;Green
+Vaughan,2281,Green;NDP;Liberal;PC
+Vaughan,2282,PC;Green;Liberal;NDP
+Vaughan,2283,Green;PC;Liberal;NDP
+Vaughan,2284,NDP;Green;Liberal;PC
+Vaughan,2285,NDP;Liberal;Green;PC
+Vaughan,2286,NDP;Green;Liberal;PC
+Vaughan,2287,Liberal;PC;NDP;Green
+Vaughan,2288,Green;Liberal;PC;NDP
+Vaughan,2289,Green;Liberal;NDP;PC
+Vaughan,2290,PC;Green;Liberal;NDP
+Vaughan,2291,PC;Liberal;Green;NDP
+Vaughan,2292,Green;NDP;PC;Liberal
+Vaughan,2293,Green;NDP;PC;Liberal
+Vaughan,2294,PC;Green;Liberal;NDP
+Vaughan,2295,PC;Green;Liberal;NDP
+Vaughan,2296,Liberal;Green;NDP;PC
+Vaughan,2297,PC;NDP;Liberal;Green
+Vaughan,2298,Liberal;Green;PC;NDP
+Vaughan,2299,PC;Green;Liberal;NDP
+Vaughan,2300,NDP;Liberal;PC;Green
+Vaughan,2301,Liberal;PC;NDP;Green
+Vaughan,2302,Liberal;NDP;Green;PC
+Vaughan,2303,Liberal;PC;Green;NDP
+Vaughan,2304,Green;Liberal;PC;NDP
+Vaughan,2305,Green;NDP;PC;Liberal
+Vaughan,2306,Liberal;NDP;PC;Green
+Vaughan,2307,NDP;Green;Liberal;PC
+Vaughan,2308,Liberal;Green;PC;NDP
+Vaughan,2309,Liberal;Green;PC;NDP
+Vaughan,2310,NDP;Green;PC;Liberal
+Vaughan,2311,NDP;Green;Liberal;PC
+Vaughan,2312,Liberal;NDP;PC;Green
+Vaughan,2313,PC;NDP;Green;Liberal
+Vaughan,2314,Green;PC;NDP;Liberal
+Vaughan,2315,NDP;Liberal;Green;PC
+Vaughan,2316,Green;NDP;Liberal;PC
+Vaughan,2317,NDP;Green;PC;Liberal
+Vaughan,2318,Liberal;Green;PC;NDP
+Vaughan,2319,Liberal;PC;NDP;Green
+Vaughan,2320,NDP;Green;Liberal;PC
+Vaughan,2321,NDP;PC;Liberal;Green
+Vaughan,2322,NDP;PC;Liberal;Green
+Vaughan,2323,Liberal;NDP;Green;PC
+Vaughan,2324,NDP;Liberal;PC;Green
+Vaughan,2325,Green;NDP;PC;Liberal
+Vaughan,2326,Green;PC;Liberal;NDP
+Vaughan,2327,Green;PC;NDP;Liberal
+Vaughan,2328,Green;NDP;Liberal;PC
+Vaughan,2329,Liberal;Green;NDP;PC
+Vaughan,2330,PC;Green;Liberal;NDP
+Vaughan,2331,Liberal;Green;PC;NDP
+Vaughan,2332,NDP;Liberal;Green;PC
+Vaughan,2333,PC;NDP;Liberal;Green
+Vaughan,2334,PC;Green;NDP;Liberal
+Vaughan,2335,Liberal;PC;NDP;Green
+Vaughan,2336,Green;Liberal;PC;NDP
+Vaughan,2337,NDP;Liberal;PC;Green
+Vaughan,2338,NDP;Green;PC;Liberal
+Vaughan,2339,Liberal;NDP;PC;Green
+Vaughan,2340,PC;NDP;Liberal;Green
+Vaughan,2341,Green;NDP;Liberal;PC
+Vaughan,2342,PC;Liberal;NDP;Green
+Vaughan,2343,Green;Liberal;NDP;PC
+Vaughan,2344,NDP;Liberal;PC;Green
+Vaughan,2345,NDP;Liberal;PC;Green
+Vaughan,2346,Green;Liberal;NDP;PC
+Vaughan,2347,Liberal;Green;NDP;PC
+Vaughan,2348,Green;Liberal;PC;NDP
+Vaughan,2349,Liberal;NDP;PC;Green
+Vaughan,2350,PC;Liberal;NDP;Green
+Vaughan,2351,NDP;PC;Liberal;Green
+Vaughan,2352,Green;NDP;PC;Liberal
+Vaughan,2353,PC;NDP;Green;Liberal
+Vaughan,2354,NDP;Green;PC;Liberal
+Vaughan,2355,Green;NDP;PC;Liberal
+Vaughan,2356,Green;PC;Liberal;NDP
+Vaughan,2357,Liberal;NDP;PC;Green
+Vaughan,2358,PC;Liberal;NDP;Green
+Vaughan,2359,PC;Green;NDP;Liberal
+Vaughan,2360,NDP;Liberal;Green;PC
+Vaughan,2361,PC;Liberal;NDP;Green
+Vaughan,2362,Green;Liberal;PC;NDP
+Vaughan,2363,NDP;Liberal;PC;Green
+Vaughan,2364,NDP;Liberal;Green;PC
+Vaughan,2365,PC;NDP;Green;Liberal
+Vaughan,2366,NDP;PC;Green;Liberal
+Vaughan,2367,Liberal;Green;NDP;PC
+Vaughan,2368,Green;PC;Liberal;NDP
+Vaughan,2369,Liberal;NDP;PC;Green
+Vaughan,2370,Liberal;Green;PC;NDP
+Vaughan,2371,PC;Green;NDP;Liberal
+Vaughan,2372,Green;Liberal;PC;NDP
+Vaughan,2373,Liberal;PC;Green;NDP
+Vaughan,2374,Green;Liberal;NDP;PC
+Vaughan,2375,Liberal;PC;Green;NDP
+Vaughan,2376,Liberal;PC;NDP;Green
+Vaughan,2377,Liberal;PC;NDP;Green
+Vaughan,2378,NDP;Green;Liberal;PC
+Vaughan,2379,Green;PC;NDP;Liberal
+Vaughan,2380,Liberal;PC;Green;NDP
+Vaughan,2381,PC;Liberal;Green;NDP
+Vaughan,2382,PC;Liberal;NDP;Green
+Vaughan,2383,Liberal;PC;Green;NDP
+Vaughan,2384,Liberal;Green;NDP;PC
+Vaughan,2385,Green;PC;NDP;Liberal
+Vaughan,2386,Liberal;PC;Green;NDP
+Vaughan,2387,NDP;PC;Liberal;Green
+Vaughan,2388,Liberal;Green;NDP;PC
+Vaughan,2389,Green;NDP;PC;Liberal
+Vaughan,2390,NDP;Liberal;PC;Green
+Vaughan,2391,Green;PC;Liberal;NDP
+Vaughan,2392,NDP;Liberal;PC;Green
+Vaughan,2393,Liberal;PC;NDP;Green
+Vaughan,2394,Liberal;PC;NDP;Green
+Vaughan,2395,Liberal;Green;NDP;PC
+Vaughan,2396,Green;Liberal;NDP;PC
+Vaughan,2397,NDP;Liberal;Green;PC
+Vaughan,2398,Liberal;NDP;Green;PC
+Vaughan,2399,Liberal;Green;NDP;PC
+Vaughan,2400,Green;Liberal;NDP;PC
+Vaughan,2401,PC;NDP;Liberal;Green
+Vaughan,2402,Liberal;PC;NDP;Green
+Vaughan,2403,PC;Liberal;Green;NDP
+Vaughan,2404,Green;PC;NDP;Liberal
+Vaughan,2405,PC;Liberal;Green;NDP
+Vaughan,2406,Green;Liberal;PC;NDP
+Vaughan,2407,NDP;Green;Liberal;PC
+Vaughan,2408,Liberal;NDP;PC;Green
+Vaughan,2409,Liberal;NDP;Green;PC
+Vaughan,2410,Liberal;PC;Green;NDP
+Vaughan,2411,Green;Liberal;PC;NDP
+Vaughan,2412,NDP;PC;Liberal;Green
+Vaughan,2413,Green;Liberal;PC;NDP
+Vaughan,2414,Green;Liberal;NDP;PC
+Vaughan,2415,PC;Liberal;NDP;Green
+Vaughan,2416,Liberal;PC;NDP;Green
+Vaughan,2417,PC;Green;Liberal;NDP
+Vaughan,2418,NDP;Liberal;PC;Green
+Vaughan,2419,Liberal;Green;NDP;PC
+Vaughan,2420,NDP;PC;Green;Liberal
+Vaughan,2421,Green;PC;NDP;Liberal
+Vaughan,2422,Liberal;PC;Green;NDP
+Vaughan,2423,Green;Liberal;NDP;PC
+Vaughan,2424,PC;Green;NDP;Liberal
+Vaughan,2425,PC;Liberal;NDP;Green
+Vaughan,2426,NDP;PC;Green;Liberal
+Vaughan,2427,PC;Green;NDP;Liberal
+Vaughan,2428,PC;NDP;Liberal;Green
+Vaughan,2429,Green;PC;NDP;Liberal
+Vaughan,2430,NDP;PC;Green;Liberal
+Vaughan,2431,Liberal;PC;NDP;Green
+Vaughan,2432,Liberal;PC;NDP;Green
+Vaughan,2433,Liberal;Green;NDP;PC
+Vaughan,2434,NDP;PC;Green;Liberal
+Vaughan,2435,NDP;PC;Green;Liberal
+Vaughan,2436,Liberal;NDP;Green;PC
+Vaughan,2437,Green;PC;NDP;Liberal
+Vaughan,2438,NDP;Green;PC;Liberal
+Vaughan,2439,Green;Liberal;PC;NDP
+Vaughan,2440,NDP;PC;Green;Liberal
+Vaughan,2441,Green;Liberal;PC;NDP
+Vaughan,2442,NDP;Liberal;PC;Green
+Vaughan,2443,Green;NDP;Liberal;PC
+Vaughan,2444,Green;PC;NDP;Liberal
+Vaughan,2445,NDP;Liberal;PC;Green
+Vaughan,2446,NDP;PC;Liberal;Green
+Vaughan,2447,PC;NDP;Liberal;Green
+Vaughan,2448,Liberal;PC;Green;NDP
+Vaughan,2449,Liberal;PC;Green;NDP
+Vaughan,2450,PC;Green;Liberal;NDP
+Vaughan,2451,Green;NDP;PC;Liberal
+Vaughan,2452,Liberal;NDP;Green;PC
+Vaughan,2453,Liberal;PC;Green;NDP
+Vaughan,2454,Liberal;Green;PC;NDP
+Vaughan,2455,Liberal;PC;Green;NDP
+Vaughan,2456,Liberal;NDP;Green;PC
+Vaughan,2457,Green;Liberal;NDP;PC
+Vaughan,2458,PC;NDP;Green;Liberal
+Vaughan,2459,Liberal;NDP;Green;PC
+Vaughan,2460,Green;PC;Liberal;NDP
+Vaughan,2461,PC;NDP;Liberal;Green
+Vaughan,2462,NDP;Liberal;Green;PC
+Vaughan,2463,Liberal;PC;Green;NDP
+Vaughan,2464,NDP;Liberal;Green;PC
+Vaughan,2465,PC;NDP;Liberal;Green
+Vaughan,2466,PC;NDP;Liberal;Green
+Vaughan,2467,Liberal;Green;NDP;PC
+Vaughan,2468,Liberal;NDP;Green;PC
+Vaughan,2469,PC;Green;Liberal;NDP
+Vaughan,2470,Liberal;Green;PC;NDP
+Vaughan,2471,NDP;PC;Green;Liberal
+Vaughan,2472,PC;Green;Liberal;NDP
+Vaughan,2473,Liberal;NDP;PC;Green
+Vaughan,2474,Liberal;NDP;Green;PC
+Vaughan,2475,Green;NDP;Liberal;PC
+Vaughan,2476,NDP;Green;PC;Liberal
+Vaughan,2477,PC;Green;Liberal;NDP
+Vaughan,2478,Green;NDP;Liberal;PC
+Vaughan,2479,Liberal;Green;PC;NDP
+Vaughan,2480,NDP;Liberal;PC;Green
+Vaughan,2481,PC;Liberal;Green;NDP
+Vaughan,2482,Liberal;NDP;PC;Green
+Vaughan,2483,Liberal;PC;NDP;Green
+Vaughan,2484,Liberal;Green;NDP;PC
+Vaughan,2485,Liberal;Green;PC;NDP
+Vaughan,2486,Green;PC;NDP;Liberal
+Vaughan,2487,Green;Liberal;PC;NDP
+Vaughan,2488,PC;Green;Liberal;NDP
+Vaughan,2489,Liberal;NDP;Green;PC
+Vaughan,2490,Liberal;NDP;PC;Green
+Vaughan,2491,PC;Liberal;Green;NDP
+Vaughan,2492,Liberal;NDP;PC;Green
+Vaughan,2493,NDP;Liberal;PC;Green
+Vaughan,2494,PC;Green;Liberal;NDP
+Vaughan,2495,NDP;Green;Liberal;PC
+Vaughan,2496,Liberal;PC;Green;NDP
+Vaughan,2497,Liberal;PC;Green;NDP
+Vaughan,2498,Liberal;NDP;Green;PC
+Vaughan,2499,PC;Green;Liberal;NDP
+Vaughan,2500,NDP;Green;PC;Liberal
